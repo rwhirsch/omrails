@@ -1,3 +1,6 @@
+<% if user_signed_in? %>
+<h1>You're logged in!</h1>
+<% else %>
 <div class="row-fluid">
   <div class="span4">
   	<h2>Navigation Bar</h2>
@@ -11,9 +14,9 @@
 		application.
 		</p>
 		<p>
-		<%= link_to "Sign Up Now", "#", class: "btn btn-inverse btn-large"%>
+		<%= link_to "Sign Up Now", new_user_registration_path, class: "btn btn-inverse btn-large"%>
 	</div>
 </p>
 </div>
 </div>
-
+<% end %>
