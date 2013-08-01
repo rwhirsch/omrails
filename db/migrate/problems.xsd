@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:include schemaLocation="simpleTypes.xsd"/>
+  <xs:element name="Problems">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Problem" minOccurs="1" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MRN" type="xs:integer"/>
+              <xs:element name="Name" type="Str2000"/>
+              <xs:element name="DisplayText" type="Str2000"/>
+              <xs:element name="Source" type="Str200" minOccurs="0"/>
+              <xs:element name="StartText" type="Str500" minOccurs="0"/>
+              <xs:element name="Comments" type="Str4000" minOccurs="0"/>
+              <xs:element name="CreatedUserId" type="Str20" minOccurs="0"/>
+              <xs:element name="CreatedTs" type="Str19" minOccurs="0"/>
+              <xs:element name="InactivationReason" type="Str4000" minOccurs="0"/>
+              <xs:element ref="ModificationContext" minOccurs="0"/>
+              <xs:element name="TermId" type="Str200" minOccurs="0"/>
+              <xs:element name="ConceptId" type="Str200" minOccurs="0"/>
+              <xs:element name="CodingScheme" type="Str200" minOccurs="0"/>
+              <xs:element name="Level" type="Str20" minOccurs="0"/>
+              <xs:element name="Severity" type="Str20" minOccurs="0"/>
+              <xs:element name="Stage" type="Str20" minOccurs="0"/>
+              <xs:element name="Chronicity" type="Str20" minOccurs="0"/>
+              <xs:element name="Certainty" type="Str20" minOccurs="0"/>
+              <xs:element name="Trend" type="Str20" minOccurs="0"/>
+              <xs:element name="History" type="Str20" minOccurs="0"/>
+              <xs:element name="Structure" type="Str20" minOccurs="0"/>
+            </xs:sequence>
+            <xs:attribute name="id" type="Str50"/>
+            <xs:attribute name="srcGenId" type="Str20"/>
+            <xs:attribute name="status" type="Str20" default="new"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute name="mrn" type="xs:integer" use="required"/>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

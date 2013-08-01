@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:include schemaLocation="simpleTypes.xsd"/>
+  <xs:element name="ProcedureSummary">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="ProcedureCode" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Scheme" type="Str10"/>
+              <xs:element name="Code" type="Str10"/>
+              <xs:element name="LastServiceDate" type="Str19"/>
+              <xs:element name="Count" type="xs:integer"/>
+              <xs:element name="Description" type="Str200"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

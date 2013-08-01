@@ -4,7 +4,12 @@
 <p>
   <%= @datum.description %>
 </p>
+<p>
+  <%= @datum.user.name %>
+</p>
+<% if current_user == @datum.user %>
 <%= link_to 'Edit', edit_datum_path(@datum) %> |
+	<% end %>
 <%= link_to 'Back', data_path %>
         </div>
     </div>

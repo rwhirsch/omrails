@@ -1,8 +1,10 @@
 class DataController < ApplicationController
+  before_filter :authenticate_user!, except: [:index]
+
   # GET /data
   # GET /data.json
   def index
-    @data = Datum.all
+    @data = current_user.datum.all
 
     respond_to do |format|
       format.html # index.html.erb
@@ -13,7 +15,7 @@ class DataController < ApplicationController
   # GET /data/1
   # GET /data/1.json
   def show
-    @datum = Datum.find(params[:id])
+    @datum = current_user.datum.find(params[:id])
 
     respond_to do |format|
       format.html # show.html.erb
@@ -24,7 +26,7 @@ class DataController < ApplicationController
   # GET /data/new
   # GET /data/new.json
   def new
-    @datum = Datum.new
+    @datum = current_user.datum.new
 
     respond_to do |format|
       format.html # new.html.erb
@@ -34,13 +36,13 @@ class DataController < ApplicationController
 
   # GET /data/1/edit
   def edit
-    @datum = Datum.find(params[:id])
+    @datum = current_user.datum.find(params[:id])
   end
 
   # POST /data
   # POST /data.json
   def create
-    @datum = Datum.new(params[:datum])
+    @datum = current_user.datum.new(params[:datum])
 
     respond_to do |format|
       if @datum.save
@@ -56,7 +58,7 @@ class DataController < ApplicationController
   # PUT /data/1
   # PUT /data/1.json
   def update
-    @datum = Datum.find(params[:id])
+    @datum = current_user.datum.find(params[:id])
 
     respond_to do |format|
       if @datum.update_attributes(params[:datum])
@@ -72,7 +74,7 @@ class DataController < ApplicationController
   # DELETE /data/1
   # DELETE /data/1.json
   def destroy
-    @datum = Datum.find(params[:id])
+    @datum = current_user.datum.find(params[:id])
     @datum.destroy
 
     respond_to do |format|

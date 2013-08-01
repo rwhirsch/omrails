@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:include schemaLocation="simpleTypes.xsd"/>
+  <xs:element name="CurrentMedications">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="CurrentMedication" maxOccurs="unbounded" minOccurs="1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MRN" type="xs:integer"/>
+              <xs:element name="Name" type="Str2000"/>
+              <xs:element name="DisplayText" type="Str2000"/>
+              <xs:element name="Source" type="Str200" minOccurs="0"/>
+              <xs:element name="StartText" type="Str500" minOccurs="0"/>
+              <xs:element name="Comments" type="Str4000" minOccurs="0"/>
+              <xs:element name="CreatedUserId" type="Str20" minOccurs="0"/>
+              <xs:element name="CreatedTs" type="Str19" minOccurs="0"/>
+              <xs:element name="InactivationReason" type="Str4000" minOccurs="0"/>
+              <xs:element ref="ModificationContext" minOccurs="0"/>
+              <xs:element name="CodingScheme" type="Str50"/>
+              <xs:element name="DrugId" type="xs:integer"/>
+              <xs:element name="MedType" type="Str20"/>
+              <xs:element name="StructType" type="Str20"/>
+              <xs:element name="PrnFlag" type="xs:string"/>
+              <xs:element name="PrnCondition" type="Str100"/>
+              <xs:element name="FormulationId" type="xs:integer"/>
+              <xs:element name="FormulationCodingScheme" type="Str50"/>
+              <xs:element name="Formulation" type="Str250"/>
+              <xs:element name="DoseAmount" type="Str100"/>
+              <xs:element name="DoseUnit" type="Str150"/>
+              <xs:element name="DoseFrequency" type="Str250"/>
+              <xs:element name="Route" type="Str250"/>
+              <xs:element name="Duration" type="Str100"/>
+              <xs:element name="SigFreeText" type="Str2000"/>
+              <xs:element name="StopDate" type="Str50" minOccurs="0"/>
+              <xs:element name="MedState" type="Str20" minOccurs="0"/>
+            </xs:sequence>
+            <xs:attribute name="id" type="Str50"/>
+            <xs:attribute name="srcGenId" type="Str20"/>
+            <xs:attribute name="status" type="Str20" default="new"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute name="mrn" type="xs:integer" use="required"/>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

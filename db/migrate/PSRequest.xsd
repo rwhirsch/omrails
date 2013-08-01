@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:include schemaLocation="simpleTypes.xsd"/>
+  <xs:include schemaLocation="allergies.xsd"/>
+  <xs:include schemaLocation="medications.xsd"/>
+  <xs:include schemaLocation="problems.xsd"/>
+  <xs:include schemaLocation="dgis.xsd"/>
+  <xs:element name="PSRequest">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="MRN" type="xs:integer"/>
+        <xs:element ref="ServiceContext"/>
+        <xs:element ref="Allergies" minOccurs="0" maxOccurs="1"/>
+        <xs:element ref="CurrentMedications" minOccurs="0" maxOccurs="1"/>
+        <xs:element ref="Problems" minOccurs="0" maxOccurs="1"/>
+        <xs:element ref="DrugGenomeInteractions" minOccurs="0" maxOccurs="1"/>
+      </xs:sequence>
+      <xs:attribute name="method" type="Str50"/>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
