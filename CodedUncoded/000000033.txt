@@ -1,0 +1,36 @@
+<CodedUncoded>
+<Tab name="PedsCard" mrno="**ID-NUM">
+<item><comm>- Normal</comm><trend></trend><isprimary>on</isprimary><full>Original Anatomy</full><id>Original_Anatomy_2</id><on>on</on></item>
+<item><comm>- **NAME[ZZZ] placement **DATE[Jul 23 11]
+removal of **NAME[ZZZ] **DATE[Mar 21 2012]
+-Broviac replacement **DATE[Apr 26 12]</comm><itemts>**ID-NUM</itemts><trend></trend><full>Surgical Procedures</full><id>Surgical_Procedures_3</id><on>on</on></item>
+<item><trend></trend><full>idiopathic primary plumonary hypertension</full><id>idiopathic_primary_plumonary_hypertension_8</id><on>on</on></item>
+<item><comm>Pulmonary hypertension
+Tricuspid valve insufficiency
+ECHO **DATE[Feb 29 12]
+Pulmonary hypertension
+Mild tricuspid valve insufficiency
+Peak tricuspid valve insufficiency gradient is 65 mmHg
+Measured tricuspid regurgitation jet likely underestimates RV pressure based on septal geometry 
+Right ventricle systolic pressure estimate severely increased (systemic)
+Estimated RV pressures at least systemic by septal geometry
+Moderate right atrial enlargement
+No ASD demonstrated
+Dilated right ventricle, severe
+Normal left ventricle structure and size
+Right ventricular wall motion is moderately depressed.
+No pericardial effusion
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>Current Hemodynamics</full><id>Current_Hemodynamics_4</id><on>on</on></item>
+<item><comm>- No issues</comm><trend></trend><full>Rhythms</full><id>Rhythms_5</id><on>on</on></item>
+<item><comm>- No issues</comm><trend></trend><full>Thrombosis</full><id>Thrombosis_6</id><on>on</on></item>
+<item><comm>- **DATE[Mar 2012] CVL infection, bacteremia with hypotension, oliguria
+- **DATE[Nov 2011] Cellulitis at CVL site</comm><itemts>**ID-NUM</itemts><trend></trend><full>Other Diagnoses</full><id>Other_Diagnoses_7</id><on>on</on></item>
+</Tab>
+<Tab name="Pediatrics" mrno="**ID-NUM">
+<item><trend></trend><isprimary>on</isprimary><full>Pulmonary hypertension</full><id>Pulmonary_hypertension_2</id><on>on</on></item>
+</Tab>
+<Tab name="PCCU" mrno="**ID-NUM">
+<item><comm>- on flolan and sildenafil</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Idiopathic pulmonary hypertension</full><id>Idiopathic_pulmonary_hypertension_2</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

@@ -1,0 +1,49 @@
+<CodedUncoded>
+<Tab name="Medicine" mrno="**ID-NUM">
+<item><comm>:
+Hgb stable and continues to have no signs of active bleeding.
+- s/p 2 units PRBC overnight w/ mild improvement in tachycardia
+- R thigh remains tense which is most likely edema. Would perform R thigh CT scan to eval for hematoma if Hgb drops again or clinical changes.</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Anemia</full><id>Anemia_9</id><on>on</on></item>
+<item><comm>:
+S/p FFP and Vit K for OR on **DATE[Jan 4], now resumed anticoagulation. Defer to orthopedics to interpret risk of bleeding at wound site. If safe from surgical standpoint, he needs lovenox bridge to INR of 2-3
+- treatment dose Lovenox until therputic INR
+- Warfarin
+- daily INR
+- please arranged follow up with anticoag clinic</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Pulmonary embolism</full><id>Pulmonary_embolism_2</id><on>on</on></item>
+<item><comm>:
+No BM for days. Added aggressive bowel regimen, please provide Rx for bowel regimen at discharge</comm><snomed>**ID-NUM</snomed><trend></trend><full>Constipation</full><id>Constipation_11</id><on>on</on></item>
+<item><comm>: 
+Rising WBC, tachycardic, likely related to postop state, anemia, and PEs. No infectious source identified
+- culture negative, stopped UTI treatment 
+- blood cultures in lab, need to be followed. 
+- CXR unimpressive</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Severe sepsis</full><id>Severe_sepsis_10</id><on>on</on></item>
+<item><comm>:
+Pt had had attempted and failed foley attempt which likely caused pyuria and hematuria. Urine culture negative
+- no need to treat for UTI, stopped CTX</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Urinary tract infectious disease</full><id>Urinary_tract_infectious_disease_9</id><on>on</on></item>
+<item><comm>:
+Resolved and at baseline per wife
+- Amm and LFTs OK
+- frequent re-orientation.  Keep room bright during day and dim but not dark at night. 
+- avoid sedating and hypnotic medications including benzos, narcotics,  benadryl
+as much as possible. 
+- consider titrating down morphine dose, transition to PO</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Delirium</full><id>Delirium_5</id><on>on</on></item>
+<item><comm>:
+- Stable
+- holding Norvasc for now given anemia, stable without it
+- follow up with PCP to consider resumption of BP med</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Hypertension</full><id>Hypertension_6</id><on>on</on></item>
+<item><comm>:
+- home dose Lantus = 25 units qhs, Novalog 15u w/ meals
+- Lantus to 20 units at night 
+- added 5 units mealtime aspart (HOLD if not eating). 
+- Check accuchecks and cover with SSI.  
+- diabetic diet, avoid IVF with D5W
+- resume home dose insulin at discharge</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Diabetes mellitus</full><id>Diabetes_mellitus_7</id><on>on</on></item>
+<item><comm>:
+S/p arterial ablation. Liver disease appear compensated at this time.  Reviewed hepatology notes from last admission.  
+- Would avoid benzos or other sedating meds as much as possible as these may accumulate in liver disease.  
+- please arrange follow up in liver clinic</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Hepatocellular carcinoma</full><id>Hepatocellular_carcinoma_8</id><on>on</on></item>
+<item><comm>:
+Pt has remained stable, delirium resolved and tachycardia slightly better with transfusion. Attribute leukocytosis and tachycardia to postop state, anemia, and PEs. Ok to discharge from a medical standpoint, recommend home health (to assist with lovenox administration), PT OT, and needs close PCP follow up (1-2 weeks) for CBC and INR. </comm><trend></trend><full>Discharge planning</full><id>Discharge_planning_10</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

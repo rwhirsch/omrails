@@ -1,0 +1,13 @@
+<CodedUncoded>
+<Tab name="Card" mrno="**ID-NUM">
+<item><comm>:  s/p PCI of the mid LAD 95% stenosis with 3 x 9 Resolute DES.  The procedure was uncomplicated. 
+     - Continue aspirin and plavix daily for at least one year.
+     - Right groin pressure dressing replaced for slight tract oozing.   Perclose was used during procedure.</comm><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Coronary artery disease</full><id>Coronary_artery_disease_2</id><on>on</on></item>
+<item><comm>:  Plan for minimally invasive mitral and tricuspid surgery tomorrow by Dr **NAME[ZZZ].
+     - NPO after midnight for surgery in am.
+     - Other necessary preop testing and procedures per cardiac surgery.  **NAME[YYY XXX], NP is aware of pt admission.</comm><snomed>368009</snomed><trend></trend><full>Heart valve disorder</full><id>Heart_valve_disorder_3</id><on>on</on></item>
+<item><comm>: normotensive this am.
+     -  Continue pt home lisinopril dose.</comm><snomed>**ID-NUM</snomed><trend></trend><full>Hypertension</full><id>Hypertension_4</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

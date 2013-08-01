@@ -1,0 +1,20 @@
+<CodedUncoded>
+<Tab name="Psych" mrno="**ID-NUM">
+<item><comm>- VPH3, Dr. **NAME[ZZZ]
+- q15</comm><trend></trend><isprimary>on</isprimary><full>Voluntary</full><id>Voluntary_2</id><on>on</on></item>
+<item><comm>anxiety disorder NOS
+- cont Effexor for mood/anx; monitor for s/sx manic/mixed episode - nothing thus far
+- contSeroquel for mood/insomnia; cont vistaril for insomnia/anxiety
+- Group/Ind therapy
+- Family mtg with husband on tues
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>Psych</full><id>Psych_3</id><on>on</on></item>
+<item><comm>adm labs pending</comm><itemts>**ID-NUM</itemts><trend></trend><full>Medical</full><id>Medical_4</id><on></on></item>
+</Tab>
+<Tab name="OB/GYN" mrno="**ID-NUM">
+<item><comm>left TM c/w acute otitis media</comm><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Otitis media</full><id>***ID-NUM</id><on>on</on></item>
+<item><comm>probable physiologic changes of late pregnancy as well as reactive airway disease
+no indication for CXR at this time: no fever, no productive cough, no tachycardia, no adventitious sounds, O2 sat 100% on room air. Will check CBC
+PCV 31, WBC 10.7, no left shift</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Increasing breathlessness</full><id>***ID-NUM</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

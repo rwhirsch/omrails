@@ -1,0 +1,24 @@
+<CodedUncoded>
+<Tab name="Medicine" mrno="**ID-NUM">
+<item><comm>PCI on **DATE[Nov 19] w/2 stents to LAD and ballon to the diagonal
+- EKG normal, CXR w/o acute process, troponin 0.12 and 0.08
+- cont medical management: 
+   -  adding metoprolol 25mg bid 
+   - cont enalapril 20 mg qaily
+   - stopping prazosin
+   - increased amlodipine to 10mg qdaily
+   - adding plavix
+   - cont ASA
+   - continue simvistatin 40mg qdaily; stopping pravastatin (LDL 61)
+- f/u w/Dr. **NAME[ZZZ] requested for 1 month and will need lipid check at that time
+- will keep PCP appt **DATE[Nov 19] for blood pressure check
+</comm><full>CAD/HTN</full><id>CAD_HTN_8</id><on>on</on></item>
+<item><itemts>**ID-NUM</itemts><full>s/p prostate resection</full><id>s_p_prostate_resection_4</id><on>on</on></item>
+<item><comm>Cont allopurinol
+</comm><full>Gout</full><id>Gout_5</id><on>on</on></item>
+<item><comm>script for nexium written for 40mg bid; alternatively can take omeprazole 40mg bid
+</comm><itemts>**ID-NUM</itemts><full>Gastroesophageal reflux</full><id>Gastroesophageal_reflux_6</id><on>on</on></item>
+<item><full>FULL CODE</full><id>FULL_CODE_9</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

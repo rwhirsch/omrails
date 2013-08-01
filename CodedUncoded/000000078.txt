@@ -1,0 +1,96 @@
+<CodedUncoded>
+<Tab name="Medicine" mrno="**ID-NUM">
+<item><comm>COPD
+DM 2
+HTN
+Hypothyroidism
+HLD
+Epilepsy
+R sided heart failure
+CKD stage 4
+OSA</comm><trend></trend><isprimary>on</isprimary><full>Chronic problems</full><id>Chronic_problems_11</id><on>on</on></item>
+<item><comm>:
+Had severe sepsis 2/2 HCAP with MSSA 
+-completed course of  Vancomycin and meropenem
+-MSSA growing in sputum
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>HCAP</full><id>HCAP_2</id><on>on</on></item>
+<item><comm>:
+2/2 to sepsis. Chronic renal failure likely related to DM and HTN exacerbated by his massive Aspirin use.  
+- required IV lasix
+- Creatinine now stable; holding daily labs 
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>Acute on chronic renal failure</full><id>Acute_on_chronic_renal_failure_3</id><on>on</on></item>
+<item><comm>:
+Repeat blood cultures **DATE[Apr 4] --negative
+-On Vanc
+:</comm><trend></trend><full>Staph epi bacteremia</full><id>Staph_epi_bacteremia_9</id><on>on</on></item>
+<item><comm>:
+-Working with PT/OT
+:</comm><trend></trend><full>ICU myopathy</full><id>ICU_myopathy_4</id><on>on</on></item>
+<item><comm>:
+-fingersticks AC+ HS
+-SSI
+:</comm><trend></trend><full>Diabetes</full><id>Diabetes_5</id><on>on</on></item>
+<item><comm>:
+-C. Diff negative
+-CTM
+:</comm><trend></trend><full>Diarrhea</full><id>Diarrhea_6</id><on>on</on></item>
+<item><comm>:
+-Failed swallow eval **DATE[Apr 6], made NPO
+-Palliative care consulted, patient is now comfort care so will allow him to eat
+-Will still do fluoro swallow study to assess which foods would be safest and strategies for improving swallow performance.
+:</comm><itemts>**ID-NUM</itemts><trend></trend><full>Aspiration</full><id>Aspiration_7</id><on>on</on></item>
+<item><comm>:
+Secondary to dexamethasone received **DATE[Apr 6]-**DATE[Apr 8]
+:</comm><trend></trend><full>Leukocytosis</full><id>Leukocytosis_10</id><on>on</on></item>
+<item><comm>:
+-Plan for SNF and then home with home hospice. 
+-If patient's strength improves prior to discharge, can go straight home with home hospice
+- Will transfer to palliative unit when bed available
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>Dispo</full><id>Dispo_13</id><on>on</on></item>
+<item><comm>:
+-SubQ heparin
+-Pepcid
+:</comm><trend></trend><full>Prophylaxis</full><id>Prophylaxis_8</id><on>on</on></item>
+<item><comm>DNR/DNI</comm><itemts>**ID-NUM</itemts><trend></trend><full>Code status</full><id>Code_status_12</id><on>on</on></item>
+</Tab>
+<Tab name="PallCare" mrno="**ID-NUM">
+<item><comm>
+--Goals of care include discharge home when capable of being at home.  We have discussed that he will need rehab prior to being able to function at home alone.
+--will continue to offer PT/OT to address deconditioning and weakness. Unwilling to participate with therapy recently.
+--Does not want aggressive interventions and has now completed course of antibiotics.</comm><itemts>**ID-NUM</itemts><trend></trend><isprimary>on</isprimary><full>Goals of Care</full><id>Goals_of_Care_5</id><on>on</on></item>
+<item><comm>
+--allow patient to comfort feed</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Pulmonary aspiration</full><id>Pulmonary_aspiration_5</id><on>on</on></item>
+<item><comm>
+-- Perhaps seeing some improvement in his agitation and delirium overnight
+--Haldol PRNs discontinued yesterday.
+- Psych is following.  We greatly appreciate their recs:
+--Continue Seroquel at 100 mg Q am and 200 mg Q hs
+--Depakote 500 mg IV Q lunch and 1000 mg Q hs
+--Wil continue Ativan 1 mg IV Q 6 hrs prn
+--Off physical restraints this morning.</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Delirium</full><id>Delirium_7</id><on>on</on></item>
+<item><comm>
+--PT/OT for strengthening if he will cooperate
+--patient is not safe for transferring independently at this time</comm><itemts>**ID-NUM</itemts><trend></trend><full>ICU myopathy</full><id>ICU_myopathy_6</id><on>on</on></item>
+<item><comm>
+-- Goal is to transition to SNF for rehab to enable patient to go home successfully with hospice support when delirium better controlled.  If his strength has improved by the time his psychiatric issues are controlled, a direct return home may be considered.</comm><itemts>**ID-NUM</itemts><trend></trend><full>Discharge Planning</full><id>Discharge_Planning_4</id><on>on</on></item>
+<item><comm>--DNR/DNI</comm><itemts>**ID-NUM</itemts><trend></trend><full>Code Status</full><id>Code_Status_6</id><on>on</on></item>
+<item><comm>
+pt with persistent elevated K, 6.1 this morning up from 5.7 yesterday
+--Single dose of IV lasix 40mg now
+--Increase daily dosing of Lasix to 20mg IV and will titrate up slowly as his kidney function allows
+--Continue daily BMP</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Hyperkalemia</full><id>Hyperkalemia_8</id><on>on</on></item>
+</Tab>
+<Tab name="NCU" mrno="**ID-NUM">
+<item><trend></trend><isprimary>on</isprimary><full>Seizure Disorder</full><id>Seizure_Disorder_2</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Altered mental status</full><id>Altered_mental_status_3</id><on>on</on></item>
+<item><trend></trend><full>Respiratory Failure Requiring Mechanical Ventilation</full><id>Respiratory_Failure_Requiring_Mechanical_Ventilation_4</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Hypoxia</full><id>Hypoxia_5</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Respiratory acidosis</full><id>Respiratory_acidosis_6</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Renal failure unspecified</full><id>Renal_failure_unspecified_7</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Hyperkalemia</full><id>Hyperkalemia_8</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Hypoglycemia</full><id>Hypoglycemia_9</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Diabetes mellitus</full><id>Diabetes_mellitus_10</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Hyperlipidemia</full><id>Hyperlipidemia_11</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

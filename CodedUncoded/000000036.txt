@@ -1,0 +1,12 @@
+<CodedUncoded>
+<Tab name="Pediatrics" mrno="**ID-NUM">
+<item><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Abdominal mass</full><id>Abdominal_mass_2</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Hyperuricemia</full><id>Hyperuricemia_3</id><on>on</on></item>
+</Tab>
+<Tab name="PedsHemeOnc" mrno="**ID-NUM">
+<item><trend></trend><isprimary>on</isprimary><full>LLQ Mass</full><id>LLQ_Mass_2</id><on></on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Abdominal mass</full><id>Abdominal_mass_3</id><on>on</on></item>
+<item><trend></trend><full>Elevated uric acid</full><id>Elevated_uric_acid_4</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

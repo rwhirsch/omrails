@@ -1,0 +1,22 @@
+<CodedUncoded>
+<Tab name="PedsCard" mrno="**ID-NUM">
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Delirium</full><id>Delirium_2</id><on>on</on></item>
+</Tab>
+<Tab name="POMD" mrno="**ID-NUM">
+<item><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Depression</full><id>Depression_2</id><on></on></item>
+</Tab>
+<Tab name="Ophtha" mrno="**ID-NUM">
+<item><comm>monitor
+</comm><snomed>**ID-NUM</snomed><full>Glaucoma</full><id>Glaucoma_2</id><on>on</on></item>
+</Tab>
+<Tab name="PCCU" mrno="**ID-NUM">
+<item><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Patent ductus arteriosus</full><id>Patent_ductus_arteriosus_2</id><on>on</on></item>
+</Tab>
+<Tab name="Medicine" mrno="**ID-NUM">
+<item><comm>(isotonic)</comm><trend></trend><full>dehydration</full><id>dehydration</id><on>on</on></item>
+<item><comm>cde</comm><itemts>**ID-NUM</itemts><trend></trend><full>Diabetic ketoacidosis</full><id>Diabetic_ketoacidosis</id><on>on</on></item>
+<item><comm>abc</comm><itemts>**ID-NUM</itemts><trend></trend><full>Hyperglycemia</full><id>Hyperglycemia</id><on>on</on></item>
+<item><comm>(insulin dependent)</comm><trend></trend><full>Diabetes mellitus</full><id>Diabetes_mellitus</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

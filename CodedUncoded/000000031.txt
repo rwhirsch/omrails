@@ -1,0 +1,20 @@
+<CodedUncoded>
+<Tab name="Medicine" mrno="**ID-NUM">
+<item><comm>-CBC, Chem 7, stool Cx, PTT, PT
+-Bowel Prep and NPO
+-prevacid 30mg qdaily
+</comm><full>Gastrointestinal bleeding</full><id>Gastrointestinal_bleeding</id><on>on</on></item>
+<item><comm>-PCV, 2 large bore IVs and 2L NS</comm><full>Orthostatic hypotension</full><id>Orthostatic_hypotension</id><on>on</on></item>
+<item><comm>SSI</comm><full>Diabetes mellitus</full><id>Diabetes_mellitus</id><on>on</on></item>
+<item><full>LLE Ulceration</full><id>LLE_Ulceration</id><on></on></item>
+<item><comm>flomax 0.4mg qDaily</comm><full>Benign prostatic hyperplasia</full><id>Benign_prostatic_hyperplasia</id><on>on</on></item>
+</Tab>
+<Tab name="Pain" mrno="**ID-NUM">
+<item><comm>1.  Pain is currently well controlled.  We will d/c his epidural today according to plan.
+2.  Continue IV pain and oral pain meds per primary team.
+3.  Encourage aggressive IS use.
+4.  We recommended he start using an acapella valve as well to enhance his mucus mobilization.
+5. CPS will sign off at this time.</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Pain</full><id>Pain_2</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

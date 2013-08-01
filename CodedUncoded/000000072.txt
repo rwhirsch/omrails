@@ -1,0 +1,12 @@
+<CodedUncoded>
+<Tab name="NCU" mrno="**ID-NUM">
+<item><comm>Right trans-maxillary approach</comm><itemdate>**DATE[Sep 13 2012]</itemdate><trend></trend><isprimary>on</isprimary><full>Schwannoma resection</full><id>Schwannoma_resection_2</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Hypertension</full><id>Hypertension_3</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Gastroesophageal reflux disease</full><id>Gastroesophageal_reflux_disease_4</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Headache</full><id>Headache_5</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Postoperative nausea</full><id>Postoperative_nausea_6</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Hyperglycemia</full><id>Hyperglycemia_7</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Vasogenic cerebral edema</full><id>Vasogenic_cerebral_edema_8</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

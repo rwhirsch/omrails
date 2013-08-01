@@ -1,0 +1,15 @@
+<CodedUncoded>
+<Tab name="OB/GYN" mrno="**ID-NUM">
+<item><comm>
+-Admit orders per WIZ
+-Sterile spec: cord prolapse visualized, no fetal parts seen
+-CBC, UA, urine culture, genprobe, UDS pending
+-Discussed D&E vs. cytotec IOL.  Risks and benefits with each were reviewed. Patient would like to do cytotec. 
+-Considering funeral vs. cremation.  Is unsure at this time.  Patient considering having genetics.  Discussed PPROM and CI.  Counseled patient and FOB about baby most likely being genetically normal. 
+-Discussed methods of pain management.  Will decide when needed.
+-Rh positive
+-Plan discussed with Dr. **NAME[ZZZ]
+</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Preterm premature rupture of membranes</full><id>Preterm_premature_rupture_of_membranes_2</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

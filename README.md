@@ -1,6 +1,6 @@
-#One Month Rails
+#Health App Challenge
 
 This is the samlpe application for
-One Month Rails Teach Yourself to Code httl://onemonthrails.com
+the Vanderbilt University Medical Center's Health App Challenge.
 
-by Mattan Griffel
+by Ryan Hirsch

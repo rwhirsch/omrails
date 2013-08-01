@@ -1,0 +1,116 @@
+<CodedUncoded>
+<Tab name="Medicine" mrno="**ID-NUM">
+<item><comm>:
+1) Neuroendocrine tumor
+--pt of **NAME[ZZZ]
+--metastases to lungs and now brain
+--being treated with Sorafenib twice a day.  Will continue this for now and defer further management to Dr. **NAME[ZZZ].
+2) Brain Lesion
+--seen by Brain MRI **DATE[Dec 2]; almost certainly metastasis associated with his known cancer and cause of his neurologic symptoms as his hallucinations have resolved completely with adding high dose steroids.  
+--Rad Onc consulted; will see as outpatient on Monday to discuss brain radiation options
+3) Acute on Chronic Kidney Injury
+--has a single kidney s/p nephrectomy **DATE[Dec 2] gunshot wound
+--baseline 1.5; >2 on admission, now downtrending
+--complicated by mild hyperkalemia
+--K and Cr improved with IVF
+4) Hypertension
+--Holding his home furosemide d/t volume depletion.  Holding proranolol d/t bradycardia while here.  Restarted his home clonidine .2mg TID at discharge, as he was progressively hypertensive since starting steroids
+5) Liver Transplant
+--immunosuppressive regimen: tacrolimus 1 mg bid
+--tacro level 3 on admission; will continue current dosing and get q12h tacro levels to monitor;  per hepatology, level between 4-5 is sufficient given how far out from transplant the patient is
+6) Insulin-dependent Diabetes Mellitus
+--Increased home lantus from 10 to 25U qhs d/t steroids. Explained that he needs to tirate up by 2 U every 3-4 days until AM sugar <120. 
+- Added aspart 8U TID with meals</comm><itemts>**ID-NUM</itemts><trend></trend><isprimary>on</isprimary><full>Problems</full><id>Problems_10</id><on>on</on></item>
+<item><comm>Full Code</comm><trend></trend><full>Code status</full><id>Code_status_12</id><on>on</on></item>
+<item><comm>:
+1) Rad Onc consultation
+2) will likely stay one more night for fluids and Decadron initiation
+3) d/c tomorrow with plan to f/u Monday
+4) continue tacrolimus at current dose; q12h levels
+5) re-start Sorafenib when home
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>Plan</full><id>Plan_11</id><on></on></item>
+<item><comm>:
+Patient describes transient symptoms of darkening vision with headache, tinnitus, lightheadedness on standing, near-syncope with weakness/unsteadiness on feet, and hallucinations of people walking in right visual field.
+Hypotension vs Hypoglycemia vs autonomic dysfunction vs seizure. Less likely to be intracranial structural defect as these episodes are transient, however need to r/o with MRI in this complicated pt. MRA as well, r/o carotid dissection given neck pain and tenderness on carotid palpation, potential impact on baroreceptor.
+- MRI/MRA 
+- orthostatics ordered
+- holding anti-hypertensives
+- IVF x 10h
+- decrease Lantus; check BG ACHS to r/o hypoglycemia.
+</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Transient neurological symptoms</full><id>Transient_neurological_symptoms_9</id><on></on></item>
+<item><comm>:
+History of HTN on several meds, was hypotensive on presentation to clinic.
+- holding home clonidine, propanolol, and doxazosin. 
+- checking orthostatics
+- r/o infectious cause of hypotension with RVP, blood cx. Monitor for fever.
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>Hypotension</full><id>Hypotension_10</id><on></on></item>
+<item><comm>.
+- On sorafenib with primary oncologist, Dr. **NAME[ZZZ].  
+- Unavailable in pharmacy, pt may take home supply if available.
+- Metastatic to lungs, h/o post-obstructive pna. 
+- CXR with mass, no evidence of pna.
+- consider CT chest per Dr. **NAME[ZZZ] note
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>Metastatic neuroendocrine tumor</full><id>Metastatic_neuroendocrine_tumor_5</id><on></on></item>
+<item><comm>.
+- A1c 6.5 on day of admission 
+- Accuchecks AC + HS
+- Lantus at reduced dose of 10u (home dose 24u) while inpatient
+- SSI
+</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Diabetes</full><id>Diabetes_9</id><on></on></item>
+<item><comm>:
+No s/sx of bleeding. On sorafenib, last -platin dose in **DATE[Dec 2012].
+-s/p 1u pPRBC given in clinic.
+-CTM. Transfuse for PCV<25.
+-Plt 41
+-Not neutropenic
+</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Pancytopenia</full><id>Pancytopenia_9</id><on></on></item>
+<item><comm>.
+- FK level 2.3 in clinic **DATE[Dec 2] .
+- Continue tacro at current home dose.
+- FK qam.
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>s/p liver transplant</full><id>s_p_liver_transplant_10</id><on></on></item>
+<item><comm>.
+Single kidney. Cr stably elevated at 1.8-2. 
+- renally dose meds
+- avoid nephrotoxins
+- IVF given overnight in anticipation of MRI with contrast in a.m.
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>CKD</full><id>CKD_11</id><on></on></item>
+</Tab>
+<Tab name="Pain" mrno="**ID-NUM">
+<item><comm>- Discontinued femoral nerve catheter today to facillitate participation in physical therapy.  
+  - Discontinued Gabapentin due to side effect
+- Continue PRN pain medications
+- APS will sign off.  Please call with questions.  **PHONE</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Pain</full><id>Pain_2</id><on>on</on></item>
+</Tab>
+<Tab name="PallCare" mrno="**ID-NUM">
+<item><comm>- No longer a candidate for radiation or chemotherapy.  Per oncology, no further cancer treatment options are available.</comm><itemts>**ID-NUM</itemts><trend></trend><isprimary>on</isprimary><full>Hepatocellular carcinoma</full><id>Hepatocellular_carcinoma_2</id><on></on></item>
+<item><comm>- By exam, I suspect he has fully herniated.  His lack of neurological response and reflex makes me concerned that he may be near brain death, however family has planned to withdraw his ventilator and rather than perform a brain death exam, we will proceed with removal from the vent and allow him to progress to cardiac death.</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Intracranial hemorrhage</full><id>Intracranial_hemorrhage_3</id><on>on</on></item>
+<item><comm>- continue fentanyl drip with titration as needed to maintain comfort.</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Respiratory failure</full><id>Respiratory_failure_4</id><on>on</on></item>
+<item><comm>- Fentanyl drip as above
+- Will monitor carefully as patient is unable to demonstrate discomfort reliably.</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Pain</full><id>Pain_5</id><on></on></item>
+<item><comm>- His girlfriend is very clear that he would not want to continue in his current condition.
+- His daughter is struggling with whether to bring her daughter to see him in this condition.
+- We have asked child life to see them to help with this issue.
+- We will continue to have discussions re: his wishes with likely goal of proceeding to removal of artificial support once all family is present, possibly tomorrow.</comm><itemts>**ID-NUM</itemts><trend></trend><full>Goals of Care</full><id>Goals_of_Care_6</id><on></on></item>
+</Tab>
+<Tab name="SICU" mrno="**ID-NUM">
+<item><comm>Pain: Continue PRN Lortab and Dilaudid.</comm><snomed>**ID-NUM</snomed><trend></trend><full>Pain</full><id>Pain_2</id><on>on</on></item>
+<item><comm>Required 92 units of regular insulin yesterday. Will increase Lantus dose to 40 units daily and keep SSI with a denomenator of 8. Consider consulting Endocrine if not able to get BG under reasonable control.</comm><snomed>**ID-NUM</snomed><trend></trend><full>Hyperglycemia</full><id>Hyperglycemia_3</id><on>on</on></item>
+<item><comm>s/p liver transplant. Platelets 25 today, INR 1.3. No active bleeding and thus no indication for transfusion at this time. Will montior.</comm><snomed>**ID-NUM</snomed><trend></trend><full>Coagulopathy</full><id>Coagulopathy_5</id><on>on</on></item>
+<item><comm>PCV 5.0, HgB 8.7. JP output minimal and is serous-sanginous. No indication for transfusion at this time; Will monitor daily CBC. Restart home B12 and folic acid for chronic anemia.</comm><snomed>**ID-NUM</snomed><trend></trend><full>Acute on chronic Anemia</full><id>Acute_on_chronic_Anemia_6</id><on>on</on></item>
+<item><comm>Hx of HTN: Has been mostly normotensive, with rare episodes of HTN to the 160s systolic. Was on home Nadolol, but will hold this in the setting of HR in the 60s. Will diurese with Lasix today and monitor for addition of additional agent is needed for blood pressure management.</comm><snomed>**ID-NUM</snomed><trend></trend><full>Hypertension</full><id>Hypertension_7</id><on>on</on></item>
+<item><comm>Hyperkalemia: K of 5.0 today. Will likely down-trend in the setting of high doses of Insulin. Will check daily BMP.</comm><snomed>**ID-NUM</snomed><trend></trend><full>Electrolytes abnormal</full><id>Electrolytes_abnormal_8</id><on>on</on></item>
+<item><comm>Transplant ID managing immunosuppression and antibiotics.</comm><snomed>**ID-NUM</snomed><trend></trend><full>History of - immunosupressive therapy</full><id>History_of___immunosupressive_therapy_9</id><on>on</on></item>
+<item><comm>Will begin home Lasix dose and monitor for response.</comm><snomed>**ID-NUM</snomed><trend></trend><full>Hypervolemia</full><id>Hypervolemia_10</id><on>on</on></item>
+<item><comm>Liver enzymes down-trending. Will monitor with daily labs.</comm><snomed>**ID-NUM</snomed><trend></trend><full>Transaminitis</full><id>Transaminitis_11</id><on>on</on></item>
+<item><comm>Diabetic carboydrate controlled diet- tolerating well. </comm><snomed>**ID-NUM</snomed><trend></trend><full>Nutritional deficiency</full><id>Nutritional_deficiency_11</id><on>on</on></item>
+</Tab>
+<Tab name="Ortho/Joint" mrno="**ID-NUM">
+<item><comm>- PCV = 22 - down from 27 post-op. Given age and comorbitidies will transfuse 2 units and cont IVF. Will d/c foley post-transfusion as pt is likely dry. 
+- Defer all transplant medications and management of liver abnormalities to GI-Liver
+- INR goal 1.5-2. INR = 1.8 this AM from 1.4 pre-op. Will half coumadin to 2mg.
+- PT oob WBAT
+- f/u labs in AM</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Osteoarthritis</full><id>Osteoarthritis_2</id><on></on></item>
+</Tab>
+</CodedUncoded>
+

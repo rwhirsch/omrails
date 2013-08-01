@@ -1,0 +1,61 @@
+<CodedUncoded>
+<Tab name="Medicine" mrno="**ID-NUM">
+<item><comm>: 
+-cont Flecainide 100mg BID to 120mg qd Cardizem. Await Cards final recs and set up out pt follow up
+-appreciate endocrine recs, pt is now on 12u Lantus qHS and 15u of Aspart TID. Out pt f/u with endocrine already set up. 
+- willl await transplant team recs on Prograf dosing, level is 17.0 today
+- will give 20mg of Kayexylate for hyperkalemia today
+- Echocardiogram shows normal EF.
+- possible dispo tomorrow
+- check EKG again tomorrow am.</comm><itemts>**ID-NUM</itemts><trend></trend><isprimary>on</isprimary><full>Today's plan</full><id>Today_s_plan_7</id><on>on</on></item>
+<item><comm>SVT vs. Atrial tach: based on EKG after adenosine push. It looks like an ectopic atrial rythym.
+ -- Now on flecainide and Cardizem
+ -- Arrhythmia on board, appreciate recs
+ -- Telemetry
+ -- Keep Mg >2, K>4
+---------------------------------------------------------------</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Tachycardia</full><id>Tachycardia_5</id><on>on</on></item>
+<item><comm>Stable
+ -- Immunosuppression: pred/tacro/mmf
+ -- Daily tacro level
+ -- Continue ppx and abx: 
+- Valcyte 450 mg tablet 1 tablet by mouth every 12 hours 
+- Sporanox 10 mg/mL Oral Soln 20 milliliters (200 mg) by mouth twice a day 
+- Zyvox 600 mg tablet 1 tablet by mouth every 12 hours, stop **DATE[May 1]
+- Tobramycin Soln For Inhalation 300 mg for inhalation every twelve hours 
+- ciprofloxacin 750 mg tablet (Also Known As Cipro) 1 tablet by mouth every 12 hours, stop **DATE[May 1]
+- sulfamethoxazole-trimethoprim 800 mg-160 mg tablet (Also Known As Bactrim DS)
+1 tablet by mouth three times a week 
+- Cefepime 2g IV q12h stop **DATE[May 1]
+---------------------------------------------------------------</comm><trend></trend><full>s/p Lung Transplant</full><id>s_p_Lung_Transplant_6</id><on>on</on></item>
+<item><comm>CFRD
+ -- Continue home pancreatic enzymes
+ --Endocrine on board
+---------------------------------------------------------------
+---------------------------------------------------------------</comm><itemts>**ID-NUM</itemts><trend></trend><full> Pancreatic insufficiency</full><id>_Pancreatic_insufficiency_4</id><on>on</on></item>
+<item><comm>Lovenox</comm><itemts>**ID-NUM</itemts><trend></trend><full> Prophy</full><id>_Prophy_10</id><on>on</on></item>
+<item><itemts>**ID-NUM</itemts><trend></trend><full>FULL CODE</full><id>FULL_CODE_6</id><on>on</on></item>
+</Tab>
+<Tab name="Pain" mrno="**ID-NUM">
+<item><comm>1. Continued shoulder pain, controlled ok with PO meds.
+2.  Surgical pain well controlled now, but removed epidural due to brown drainage and since this is day 5. Site actually looked good after removal.
+3.  patient significantly anxious about his pain control following epidural removal. Will plan transition to PO oxycodone. However I think he will also benefit from brief low-dose MS Contin 15 mg PO BID, not to be continued beyond discharge.
+4.  multimodal analgesia with gabapentin 300 mg PO TID and Tylenol scheduled.</comm><itemts>**ID-NUM</itemts><trend></trend><isprimary>on</isprimary><full>Pain</full><id>Pain_2</id><on>on</on></item>
+</Tab>
+<Tab name=***NAME[BBB CCC DDD] mrno="**ID-NUM">
+<item><comm>he is pleased that he has begun tx eval, </comm><itemts>**ID-NUM</itemts><trend></trend><isprimary>on</isprimary><full>goals of care</full><id>goals_of_care_2</id><on>on</on></item>
+<item><comm>sx seem to improve, he gets understandably frustrated as he has sig swings in energy level, we discussed though if we compare his condition today from even a few days, he is making peristent improvement </comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Pain</full><id>Pain_3</id><on>on</on></item>
+<item><comm>full code, intubate as indicated
+has advance care directives delineated in past</comm><itemts>**ID-NUM</itemts><trend></trend><full>code status</full><id>code_status_4</id><on>on</on></item>
+</Tab>
+<Tab name="GMS" mrno="**ID-NUM">
+<item><comm>CF related diabetes mellitus, much tighter control. given AM hypoglycemia will reduce his lantus dose from 23 to 19 units bedtime.
+- continue aspart 28 units meals. continue aspart correction scale achs: bg=0-70:insta-glucose 20 gm po or d50 1 amp iv & nho; bg=71-160: nothing; bg=**ID-NUM units; bg=201-250: 6 units; bg=251-300: 9 units; bg=301-350: 12 units; bg=351-400: 15 units; bg>400: 18 units & nho 
+page endocrine at **PHONE if questions  </comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Secondary diabetes mellitus</full><id>Secondary_diabetes_mellitus_2</id><on>on</on></item>
+</Tab>
+<Tab name="MICU" mrno="**ID-NUM">
+<item><comm>:  </comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Cystic fibrosis</full><id>Cystic_fibrosis_2</id><on>on</on></item>
+<item><trend></trend><full>Hyperglycemia</full><id>Hyperglycemia_4</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Pancreatic insufficiency</full><id>Pancreatic_insufficiency_4</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

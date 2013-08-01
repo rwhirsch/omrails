@@ -1,0 +1,52 @@
+<CodedUncoded>
+<Tab name="GI/Hepatology" mrno="**ID-NUM">
+<item><comm>- Transfuse to maintain hct at 25 or above
+- Avoid rectal bowel management systems as this can contribute to ulcerations. 
+ - Appreciate recommendations from ID for management. </comm><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Bleeding</full><id>Bleeding_2</id><on>on</on></item>
+</Tab>
+<Tab name="Medicine" mrno="**ID-NUM">
+<item><comm>:
+- Bortezomib D1,4,8,11 every 21 days plus Dex 40mg PO weekly . S/P completed cycle1 and received D1 of cycle2 on **DATE[Apr 21 12]. 
+-no further treatment at this time pending improvement in performance status
+-needs f/u with Dr. **NAME[ZZZ 
+- YYY] undetectable - restage per Dr. **NAME[ZZZ]. SPEP pending. </comm><itemts>**ID-NUM</itemts><trend></trend><isprimary>on</isprimary><full>Multiple Myeloma</full><id>Multiple_Myeloma_4</id><on>on</on></item>
+<item><comm>:
+- RR Team called to pt **ROOM mEq orally today, will follow</comm><itemts>**ID-NUM</itemts><trend></trend><full>Hypokalemia</full><id>Hypokalemia_12</id><on>on</on></item>
+<item><comm>: - Foley ordered yesterday with U/A (+) C&S pending
+- stopped bethanechol
+- Cipro x 3 days, based on urine sensitivities from **DATE[Jun 04 12] urine C&S</comm><itemts>**ID-NUM</itemts><trend></trend><full>Decreased urine output</full><id>Decreased_urine_output_14</id><on>on</on></item>
+<item><comm>:
+- ordered up to chair TID for meals, will follow.
+- continue PT
+- emphasized need to get out of bed to increased strength for anticipated dc.</comm><itemts>**ID-NUM</itemts><trend></trend><full>Acitivity</full><id>Acitivity_13</id><on>on</on></item>
+<item><comm>:
+- SCDs
+- PPI  </comm><itemts>**ID-NUM</itemts><trend></trend><full>PPX</full><id>PPX_7</id><on>on</on></item>
+<item><comm>:
+- Full code </comm><itemts>**ID-NUM</itemts><trend></trend><full>Code Status</full><id>Code_Status_8</id><on>on</on></item>
+<item><comm>:
+- son is POA
+- SW identified SNF that would accept pt with PD, pt has declined. SW suggests discharge home with home health. She does not meet criteria for Stallworth. .
+Patient assessed and discussed with Dr. **NAME[XXX]</comm><itemts>**ID-NUM</itemts><trend></trend><full>Dispo</full><id>Dispo_13</id><on>on</on></item>
+<item><comm>- flat affect. </comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Depression</full><id>Depression_15</id><on></on></item>
+<item><comm>-:
+ most likely 2/2 recent diarrhea, Zosyn and PD 
+- repleted yesterday , K 3.9 this AM,  Q12H lyte checks.</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Hypokalemia</full><id>Hypokalemia_16</id><on></on></item>
+<item><comm>:
+- no complaints at present</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Postherpetic neuralgia</full><id>Postherpetic_neuralgia_15</id><on></on></item>
+</Tab>
+<Tab name="PallCare" mrno="**ID-NUM">
+<item><comm>
+- Met with patient and her son **NAME[WWW] this morning.  She is very clear about her wishes.  She would want all therapies available including intubation for a defined trial, CPR/cardioversion.
+- She would not want to be dependent long-term on life-suuport but would want a defined trial of all aggressive interventions.
+- She is hopeful about getting well enough to go to oncology clinic to explore further treatment options. 
+- I have changed her code status on the chart and left an advanced care plan with them for further discussion.  I encouraged them to think about a talk about qualities of life that would and would not be acceptable.  
+- Palliative care will sign off.  Please call us with any additional questions. 
+- POST form completed with patient and son and nursing will scan it to the chart. </comm><itemts>**ID-NUM</itemts><trend></trend><isprimary>on</isprimary><full>Goals of Care:</full><id>Goals_of_Care__2</id><on>on</on></item>
+<item><comm>
+- Appears comfortable</comm><itemts>**ID-NUM</itemts><trend></trend><full>Symptom management:</full><id>Symptom_management__3</id><on>on</on></item>
+<item><comm>
+- FULL</comm><itemts>**ID-NUM</itemts><trend></trend><full>Code Status:</full><id>Code_Status__4</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

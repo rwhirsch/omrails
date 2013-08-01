@@ -1,0 +1,6 @@
+<CodedUncoded>
+<Tab name="Pediatrics" mrno="**ID-NUM">
+<item><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Neonatal jaundice</full><id>Neonatal_jaundice_2</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

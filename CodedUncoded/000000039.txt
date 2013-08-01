@@ -1,0 +1,15 @@
+<CodedUncoded>
+<Tab name="Pediatrics" mrno="**ID-NUM">
+<item><comm>-Responded well to albuterol and Mag in ED. Received orapred at OSH.
+-Asthma reportedly well-controlled on xopenex at home. 
+-Will provide O2 as needed to maintain sats >90% (likely hypoxia due to VQ mismatch after albuterol as he was satting well here at arrival to ED). 
+-It is unlikely **NAME[ZZZ] has an allergy to albuterol. Doing well here. Will continue and space per RT protocol. First q4 this am.
+-Will continue for 5 day course of steroids.
+-Regular diet PO ad lib.</comm><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Asthma</full><id>Asthma_2</id><on>on</on></item>
+<item><comm>-Reported penicillin anaphylaxis. This is unlikely as **NAME[ZZZ] was never seen in ED or treated w epipen.
+-Will give clindamycin PO which has better strep pneumo coverage than azithromycin. 
+-BCx sent, pending.
+-Will need outpt allergy referral for testing with multiple reported allergic triggers and possible anaphylaxis, as he has never had this before.</comm><snomed>**ID-NUM</snomed><trend></trend><full>Pneumonia</full><id>Pneumonia_3</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

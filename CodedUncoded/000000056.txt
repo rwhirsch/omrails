@@ -1,0 +1,15 @@
+<CodedUncoded>
+<Tab name="Pediatrics" mrno="**ID-NUM">
+<item><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Aortic valve stenosis</full><id>Aortic_valve_stenosis_2</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>increased work of breathing</full><id>increased_work_of_breathing_3</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Dysmorphic features</full><id>Dysmorphic_features_4</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Infant feeding problem</full><id>Infant_feeding_problem_6</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Bronchiolitis</full><id>Bronchiolitis_8</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>History of placement of gastrostomy tube</full><id>History_of_placement_of_gastrostomy_tube_9</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Vomiting</full><id>Vomiting_10</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Aspiration pneumonia</full><id>Aspiration_pneumonia_11</id><on>on</on></item>
+<item><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Failure to gain weight</full><id>Failure_to_gain_weight_5</id><on></on></item>
+<item><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Escherichia coli urinary tract infection</full><id>Escherichia_coli_urinary_tract_infection_7</id><on></on></item>
+</Tab>
+</CodedUncoded>
+

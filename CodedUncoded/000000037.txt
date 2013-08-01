@@ -1,0 +1,12 @@
+<CodedUncoded>
+<Tab name="SICU" mrno="**ID-NUM">
+<item><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Pain</full><id>Pain_2</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Respiratory insufficiency</full><id>Respiratory_insufficiency_3</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Hypertension</full><id>Hypertension_4</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Anemia</full><id>Anemia_5</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Gastroesophageal reflux disease</full><id>Gastroesophageal_reflux_disease_6</id><on>on</on></item>
+<item><comm>h/o</comm><snomed>**ID-NUM</snomed><trend></trend><full>Breast cancer</full><id>Breast_cancer_7</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Hypomagnesemia</full><id>Hypomagnesemia_8</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

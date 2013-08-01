@@ -1,0 +1,6 @@
+<CodedUncoded>
+<Tab name=***NAME[BBB CCC DDD] mrno="**ID-NUM">
+<item><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Small bowel obstruction</full><id>Small_bowel_obstruction_2</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

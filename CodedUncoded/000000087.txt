@@ -1,0 +1,28 @@
+<CodedUncoded>
+<Tab name="OB/GYN" mrno="**ID-NUM">
+<item><comm>1. POD#2, stable, doing well. Encourage ambulation, advance diet as tolerated.  Monitor bowel and bladder function.
+2. PCV postop 32
+3. Breastfeeding 
+4. Birth control method: BTL
+5. Rh positive: no Rhogam indicated 
+6. Rubella immune: no MMR indicated
+7. Received epidural  for delivery
+8. EPDS: pending
+9. Uncomplicated post-partum course thus far
+VSS, afebrile, meeting post-op goals
+Disposition: anticipate discharge home POD# 3
+RTO in 6 weeks for post-partum checkPOD# 3
+Feel well
+Breastfeeding
+Vital signs stable
+Incision CDI
+Flu shot as indicated
+Tdap if needed
+Rhogam given if indicated
+Postpartum birth BTL
+RX given for pain control 
+Return to clinic at 6 weeks for postpartum appointment with her provider  in columbia
+ </comm><itemts>**ID-NUM</itemts><trend></trend><isprimary>on</isprimary><full>Postpartum</full><id>Postpartum_9</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

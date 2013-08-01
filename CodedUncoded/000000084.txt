@@ -1,0 +1,65 @@
+<CodedUncoded>
+<Tab name="Medicine" mrno="**ID-NUM">
+<item><comm>- OSH Sputum Cx 1/29: Pseudomonas,
+Stenotrophomonas maltophilia
+- OSH Sputum Cx **DATE[Aug 8]: Pseudomonas sensitive to colistin
+- Negative workup at Mayo: TB quantiferon, fungal serologies, aspergillus antigen, Fungitell assay, CMV PCR, influenza PCR, Bartonella serologies, Brucella serologies 
+- Blood cultures **DATE[Aug 11] negative x 2
+- Sputum Cx **DATE[Sept 1]Prelim: Heavy growth of 
+   Probable Pseudomonas (mucoid)
+- Sputum fungal:  Candida albicans 
+- **DATE[Sept 5] Sputum cx and sputum AFB x 3 pending
+- s/p Zosyn (4.5g IV q6h), Tobramycin (INH 300mg BID), and (Bactrim DS 2 tabs q8h) started at Mayo, stopped **DATE[Aug 28]
+- Pt would cont Azithromycin 500mg qMWF, IV merrem, and iv tobramycin via PICC line at home. 
+- BiPAP qhs approved and set up for home use 
+- pt will cont aggressive pulmonary toilet: Albuterol nebs, pulmozyme bid, HTS bid, guiafenesin LA 600mg tid, acapella valve for airway clearance, and CPPD 
+</comm><itemts>**ID-NUM</itemts><trend></trend><isprimary>on</isprimary><full>CF exacerbation</full><id>CF_exacerbation_2</id><on>on</on></item>
+<item><comm>:
+- LFTs wnl
+- A1c: 5.4
+- Echo: Normal echocardiogram
+- standing weight check q AM
+- RHC mild pulm HTN
+- V/Q scan low prob for PE
+- barium swallow to evaluate for GERD scheduled for **DATE[Sept 13]
+- fasting and post-prandial glucose checks- 115. No indication for insulin at this time.
+-six minute walk test complete- pt was able to walk 720ft
+- pulm rehab set up at Dayani center.
+ </comm><itemts>**ID-NUM</itemts><trend></trend><full>Lung transplant evaluation</full><id>Lung_transplant_evaluation_3</id><on>on</on></item>
+<item><comm>: mild
+- s/p prednisone taper **DATE[Aug 8]-**DATE[Aug 12], and another 5day course on **DATE[Aug 25]-**DATE[Aug 29] per pt's request.
+- albuterol nebs
+- klonopin tid PRN anxiety after neb therapy. 
+- ipratropium nasal spray tid for nasal congestion
+- on azithro M-W-F, merrem, and iv tobramycin- appreciate PK recs
+- night time O2 sat off Bipap showed pt desating to 86%. </comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Dyspnea</full><id>Dyspnea_10</id><on>on</on></item>
+<item><comm>: 
+- PCV low but stable
+- MCV 70s
+- Fe, TIBC, ferritin, retic, folate, B-12 wnl 
+- cont ferrous sulfate daily
+</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Anemia</full><id>Anemia_11</id><on>on</on></item>
+<item><comm>:pancreatic insufficiency related to CF
+- fecal elastase 96, on creon 24000 6 capsule with meals, 4 caps with snacks
+ - AquADEK MVI
+- Vit D3 2000 units daily
+- S/p G-J tube by IR 3/5, receiving nocturnal TF, scheduled Creon before and after TF.
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>Nutrition</full><id>Nutrition_4</id><on>on</on></item>
+<item><comm>:Unclear etiology, started on diltiazem at Mayo.
+TSH: 2.29    FT4: 0.66    TT4: 6.2 (all normal on **DATE[Aug 11]). Likley related to multiple breathing txs with beta agonists and low intravascular vol.
+- Continue Cardizem SR 420mg daily</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Tachycardia</full><id>Tachycardia_5</id><on>on</on></item>
+<item><comm>: Pt will cont the following meds at home
+- Bupropion 150mg daily
+- Klonopin 1mg tid PRN anxiety/jitters
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>Psych</full><id>Psych_6</id><on>on</on></item>
+<item><comm>:
+- subQ heparin
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>Prophylaxis</full><id>Prophylaxis_7</id><on></on></item>
+<item><comm>: found apartment in **PLACE. Case manager is made arrangements for home O2 and BIPAP. 
+- He is to f/u in the CF clinic with Dr. **NAME[ZZZ] on **DATE[Sept 9].</comm><itemts>**ID-NUM</itemts><trend></trend><full>dispo</full><id>dispo_9</id><on>on</on></item>
+<item><comm>:
+Full Code 
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>Code </full><id>Code__8</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

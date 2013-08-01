@@ -1,0 +1,10 @@
+<CodedUncoded>
+<Tab name="NCU" mrno="**ID-NUM">
+<item><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Parkinson's disease</full><id>Parkinson_s_disease_5</id><on>on</on></item>
+<item><trend></trend><full>s/p DBS</full><id>s_p_DBS_4</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Hypertension</full><id>Hypertension_2</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Obstructive sleep apnea syndrome</full><id>Obstructive_sleep_apnea_syndrome_6</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Pain</full><id>Pain_3</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

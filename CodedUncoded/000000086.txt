@@ -1,0 +1,9 @@
+<CodedUncoded>
+<Tab name="NICU" mrno="**ID-NUM">
+<item><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Ambiguous genitalia</full><id>Ambiguous_genitalia_2</id><on>on</on></item>
+<item><comm>mosaic two-cell germline (45, XO and 46, XYY) with predominance of 46, XYY cells (34 of 40 cells studied)</comm><trend></trend><full>Abnormal cytogenetic sex-chromosome analysis</full><id>Abnormal_cytogenetic_sex_chromosome_analysis_3</id><on>on</on></item>
+<item><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Anemia</full><id>Anemia_5</id><on></on></item>
+<item><trend></trend><full>Abdominal/pelvic mass</full><id>Abdominal_pelvic_mass_4</id><on></on></item>
+</Tab>
+</CodedUncoded>
+

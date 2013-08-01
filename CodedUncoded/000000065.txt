@@ -1,0 +1,49 @@
+<CodedUncoded>
+<Tab name="GI/Hepatology" mrno="**ID-NUM">
+<item><trend></trend><isprimary>on</isprimary><full>.</full><id>__5</id><on>on</on></item>
+<item><comm>.
+- LGI bleed (ischemic colitis) considered given recent surgery; but contrasted CT abd/pelv did not show colitis (ischemic or otherwise) and intra op MAP = 80s w/o acute BP drops, but he was hypotensive down to 90s/40s at presentation from self induced diarrhea at home (felt constipated and had lots of dairy); there was short segment of thickening of descending colon, but unlikely significant finding
+- LA = 1.9, unlikely mesenteric ischemia
+- but wife reported a bit of dark blood in BM prior to arrival, and nurse noted red discoloration on diaper overnight; I did not see major hemorrhoids on exam
+- CT did not suggest herald bleed from aortoenteric fistula
+- rectal twice had normal colored stool w/o melena or frank blood
+- although the cause is yet unclear, given the timing the most likely seems to be vascular in origin; although colonscopic eval could be considered, would like to defer first since pt himself is strongly against invasive w/u at this time; secondly, the management would be the same if an area of ischemia is found, supportive care
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>acute anemia</full><id>acute_anemia_2</id><on>on</on></item>
+<item><comm>.
+- RLQ pain
+- unclear cause
+- no biliary issue on CT; not appendix
+- CT did have mild pleural effusion on R, but unlikely the cause
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>abd pain</full><id>abd_pain_3</id><on>on</on></item>
+<item><comm>.
+- has CAD s/p CABG, CAS, PVD
+- likely needs at least ASA, possibly baby ASA will be enough rather than full 325</comm><trend></trend><full>aspirin</full><id>aspirin_4</id><on>on</on></item>
+</Tab>
+<Tab name="MICU" mrno="**ID-NUM">
+<item><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Orthostatic hypotension</full><id>Orthostatic_hypotension_2</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Anemia unspecified</full><id>Anemia_unspecified_3</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Chronic pain</full><id>Chronic_pain_4</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Coronary artery disease</full><id>Coronary_artery_disease_5</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Peripheral vascular disease</full><id>Peripheral_vascular_disease_6</id><on>on</on></item>
+<item><comm>repaired</comm><snomed>**ID-NUM</snomed><trend></trend><full>Aneurysm of ascending aorta</full><id>Aneurysm_of_ascending_aorta_7</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Respiratory insufficiency</full><id>Respiratory_insufficiency_8</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Malnutrition (calorie)</full><id>Malnutrition__calorie__9</id><on>on</on></item>
+</Tab>
+<Tab name="PallCare" mrno="**ID-NUM">
+<item><comm>much better, no changes</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Insomnia</full><id>Insomnia_5</id><on></on></item>
+<item><comm>-Goals for focus on comfort. Family decided yesterday as plan changed to focus on comfort and remain in **PLACE as trip could be a very difficulty transition. 
+-Focus now on comfort measures in PCU as patient is changing hourly. </comm><itemts>**ID-NUM</itemts><trend></trend><full>Goals of care</full><id>Goals_of_care_4</id><on>on</on></item>
+<item><comm>no new interventions. focus on comfort. </comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Abdominal aortic aneurysm</full><id>Abdominal_aortic_aneurysm_5</id><on>on</on></item>
+<item><comm>-Lactic Acid 1.1 on **DATE[Jun 01 12]
+-KUB positive for free air, abd continues to have significant distention
+-Based on this information, NG tube placed with relief. 
+-Dilaudid and Versed titrated to comfort overnight. Please see above.</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Abdominal pain</full><id>Abdominal_pain_6</id><on>on</on></item>
+<item><comm>DNR/DNI</comm><trend></trend><full>Code status</full><id>Code_status_7</id><on>on</on></item>
+<item><comm>Remain here as patient is actively dying.</comm><itemts>**ID-NUM</itemts><trend></trend><full>Dispo</full><id>Dispo_8</id><on>on</on></item>
+<item><comm>much more comfortable on this regimen
+has basal and demand available, adn prn nursing to dose iv dilaudid if he is sleeping
+if we think pt can go with pca, will keep him on this regimen
+if we do not think he can travel wti pca, will transition dilaudid to fentanyl patch (would be 250mic fentanyl patch as he is on basal 1mg/hr)</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Pain</full><id>Pain_8</id><on></on></item>
+</Tab>
+</CodedUncoded>
+

@@ -1,0 +1,24 @@
+<CodedUncoded>
+<Tab name="Medicine" mrno="**ID-NUM">
+<item><comm>:
+- Appreciate Hematology follow
+- Initially on Dilaudid PCA, tapered to IV dilaudid pushes with continued control of pain.
+On discharge, patient to continue home meds:
+  - Home Methadone 40 mg q8h prn
+- Support with IVF, prn anti-emetics
+- Folic acid, hydrea daily
+- s/p transfusion 2U PRBCs on **DATE[Dec 1]</comm><itemts>**ID-NUM</itemts><trend></trend><isprimary>on</isprimary><full>Sickle cell pain crisis</full><id>Sickle_cell_pain_crisis</id><on>on</on></item>
+<item><comm>: 
+- Work-up unremarkable
+- UA not suggestive of infection, UCx (**DATE[Dec 1]) pending
+- BCx (**DATE[Dec 2]) NGTD
+- Flu, rapid strep, RVP negative
+- Port site benign appearing
+- All abx discontinued on **DATE[Dec 10]as pt remains afebrile with no infectious source identified
+- Discharged off of any antibiotic</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Fever</full><id>Fever_5</id><on>on</on></item>
+<item><comm>: 
+- Pre-renal, resolved with IVF
+- Follow daily BMP</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Acute renal failure syndrome</full><id>Acute_renal_failure_syndrome_6</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

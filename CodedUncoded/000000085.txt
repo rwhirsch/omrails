@@ -1,0 +1,122 @@
+<CodedUncoded>
+<Tab name="Ophtha" mrno="**ID-NUM">
+<item><comm>left
+- Continue to manage cardiac risk factors
+- Avoid hypotension, anemia. 
+- no treatment necessary currently
+- patient to see home ophthalmology provider for refraction when dischaged
+please call ophthalmology if vision changes **PHONE </comm><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Disorder of optic nerve</full><id>Disorder_of_optic_nerve_2</id><on>on</on></item>
+</Tab>
+<Tab name="Card" mrno="**ID-NUM">
+<item><comm>
+1.  s/p mitral valvuloplasty with TEE yesterday complicated by MR.
+2.  echo today</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Mitral valve disorder</full><id>Mitral_valve_disorder_5</id><on>on</on></item>
+<item><comm>
+1.  She had a coronary arteriogram yesterady and was only noted to have a 40-60% RCA stenosis so PCI was not performed.  We will treat CAD medically.
+2.  continue her ASA, Plavix, BB, and statin </comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Coronary artery disease</full><id>Coronary_artery_disease_2</id><on>on</on></item>
+<item><comm>
+1.  She has known PVD and claudication intermittently.
+2.  She will be referred to Dr. **NAME[ZZZ YYY] to have this addressed at a later time.</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Peripheral vascular disease</full><id>Peripheral_vascular_disease_4</id><on>on</on></item>
+<item><comm>
+1.  She has a history of stroke but no active symptoms.
+2.  followed by local physicians</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Cerebrovascular disease</full><id>Cerebrovascular_disease_3</id><on></on></item>
+<item><comm>
+1.  She has chronic diastolic heart failure.  BNP 297 on admission
+2.  held Lasix due to procedure and need to restart today.  Concerned that if she gets confused, she could fall while walking to bathroom.  Will only start back Lasix 20 mg daily and hopefully increase tomorw</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Congestive heart failure</full><id>Congestive_heart_failure_6</id><on>on</on></item>
+<item><comm>1.  increased frequency of nebulizer treatments
+2.  chest x-ray: Mildly accentuated parenchymal markings </comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Chronic obstructive lung disease</full><id>Chronic_obstructive_lung_disease_7</id><on></on></item>
+<item><comm>
+1.  pending urine culture
+2.  levaquin x3 days</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Urinary tract infectious disease</full><id>Urinary_tract_infectious_disease_8</id><on>on</on></item>
+<item><comm>
+1.  need to check free T4
+2.  decreased her Synthroid dose temporarily due to lowered TSH
+3.  f/u with her PCP. </comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Hypothyroidism</full><id>Hypothyroidism_9</id><on>on</on></item>
+<item><comm>
+1.  no signs of bleeding
+2.  on heparin for DVT prophalyxis
+3.  recheck in am
+4.  lower ASA dose to 81 mg daily
+5.  we will keep on Plavix due to her extensive cardio/peripheral vascular disease</comm><snomed>**ID-NUM</snomed><trend></trend><full>Anemia</full><id>Anemia_11</id><on>on</on></item>
+<item><comm>
+1.  This morning, she has new neurological findings that have unknown etiology.  Unclear if this is a stroke (unlikely) due to no focal findings vs. benzo withdrawl vs. reaction to anesthesia vs some other diagnosis.   Her daughter told me previously that she had had a reaction during her last cath by Dr. **NAME[XXX] which included transient neurological changes which resolved.  She was told it was probably a reaction to either the fentanyl or versed but not sure which one).  She was given general anesthesia yesterday.
+2.  consult neurology
+</comm><snomed>**ID-NUM</snomed><trend></trend><full>Neurological finding</full><id>Neurological_finding_10</id><on>on</on></item>
+</Tab>
+<Tab name="Medicine" mrno="**ID-NUM">
+<item><comm>-Brain MRI: with new small acute infarct in L posterior frontal lobe likely complication of mitral balloon valvuloplasty
+-CTA of head and neck with total occlusion of L internal carotid artery; unclear if acute or chronic
+-EEG: mild generalized nonspecific cerebral dysfunction
+-Previous deficits with word finding and L eye vision but improving
+-Neurology following
+-Opthalmology consulted
+-Levophed discontinued
+-Passed swallow eval
+-Speech/cognitive eval with moderate dysfunction
+Plan: 
+-Continue to monitor BP 
+-aspirin and plavix.
+-Will benefit from inpatient rehab including speech therapy
+</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Cerebrovascular accident</full><id>Cerebrovascular_accident_2</id><on>on</on></item>
+<item><comm>:
+-s/p post ballon valvuloplasty **DATE[Oct 23 2012] 
+TTE **DATE[Oct 23 2012]: 
+-normal EF of 65%, diastolic dysfunction
+-Moderate mitral regurgitation as well as moderate to severe mitral stenosis. Pulmonary HTN with RVSP of 61.
+TTE **DATE[Oct 31 2012]: 
+1. Normal biventricular systolic function 
+2. Mitral valve is rheumatic appearing. There is a likely torn chord prolapsing back into the LA with resultant severe mitral insufficiency (with pulmonary vein reversal). Gradient across the valve is in the severe range at a physiologic HR. 
+3. Very small pericardial effusion without tamponade physiology 
+4. Right pleural effusion and ascites noted 
+5. Since previous echocardiogram report of **DATE[Oct 23 2012], MR appears more severe 
+Plan: 
+-continue with ASA, Plavix, Atenolol
+-Lasix 60mg PO qday (home dose) 
+-Have requested f/u with cardiology (Zhao) 
+-Carotid angiogram **DATE[Oct 25], no stents placed 
+-SBP >130 
+</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Mitral valve stenosis</full><id>Mitral_valve_stenosis_10</id><on>on</on></item>
+<item><comm>:
+-on ASA, plavix, statin
+-Decrease dose of atenolol to 12.5mg qday 
+-Goal SBP >130 
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>CAD </full><id>CAD__3</id><on>on</on></item>
+<item><comm>Hypoxic + hypercarbic respiratory failure was likely 2/2 flash pulmonary edema in the setting of hypertension. Required intubation. Extubated **DATE[Oct 23 2012], now on RA. 
+-CXR with bilateral infiltrates consistent with volume overload but also concerning for HCAP
+-Treated with  vanc, zosyn-->narrowed to LVQ (d/c **DATE[Oct 25 2012]) 
+-No further therapy needed at this time 
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>HCAP </full><id>HCAP__4</id><on>on</on></item>
+<item><comm>Developed new "bright light" in her left eye after a mitra valve balloon valvuloplasty 3 days prior. Improved over an hour.  This event and her prior event are both consistent with ischemic events affecting the optic nerve.
+ It is also possible that she suffers from ocular ischemic syndrome given her significant carotid stenosis OS, although she does not describe any pain and she does not have any heme/cotton wool spots/MAs that would indicate this pathology.  Her RAPD and mild pallor on exam today 2 days ago is
+consistent with damage to the optic nerve.
+         
+Plan: 
+- Managed cardiac risk factors
+- Continued alphagan TID to lower IOP, encourage perfusion, and continue neuroprotection.  
+- Avoided hypotension or anemia 
+- patient to see home ophthalmology provider for refraction when discharged
+- Pt may require a fluoresceine angiogram as an outpt to further establish diagnosis.
+</comm><trend></trend><full>Left optic nerve ischemia </full><id>Left_optic_nerve_ischemia__11</id><on>on</on></item>
+<item><comm>:
+-resolved
+-Vanc, zosyn, LVQ (**DATE[Oct 23 2012] - **DATE[Oct 28 2012]) 
+-sputum cx **DATE[Oct 23 2012] negative
+-urine cx **DATE[Oct 23 2012]neg
+-**DATE[Oct 23 2012] blood cx negative
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>leukocytosis </full><id>leukocytosis__5</id><on>on</on></item>
+<item><comm>-continued home synthroid of 50mcg
+</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Hypothyroidism</full><id>Hypothyroidism_7</id><on>on</on></item>
+<item><comm>-Subq heparin 
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>Ppx</full><id>Ppx_8</id><on>on</on></item>
+<item><comm>-PT/OT recommend inpatient rehab
+-Requested appt with Zhao for f/u as outpatient
+-Requested appt with Opthalmology for f/u as outpatient
+-Requested appt with Dr. **NAME[YYY] for f/u 
+-Requested appt with Neurology for f/u
+-Patient will need to set up f/u with Dr. **NAME[WWW] (cardiology) 
+-Patient will need to set up f/u with her PCP 
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>dispo</full><id>dispo_9</id><on>on</on></item>
+<item><comm>-Full code </comm><itemts>**ID-NUM</itemts><trend></trend><full>code </full><id>code__10</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

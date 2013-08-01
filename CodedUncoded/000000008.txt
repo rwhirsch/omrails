@@ -1,0 +1,29 @@
+<CodedUncoded>
+<Tab name="Medicine" mrno="**ID-NUM">
+<item><comm>Unsure of etiology. No cellulitis by exam, although imaging consistent with this (SQ edema). Possible fat necrosis. No traumatic injury hx. 
+- pain improved w/NSAIDs-
+- home PT </comm><itemts>**ID-NUM</itemts><trend></trend><full>LLE pain</full><id>LLE_pain_15</id><on>on</on></item>
+<item><comm>PD daily.
+- Renal diet when taking PO
+- Mineral metabolism: 
+-continue phos binder.  
+-Continue calcitriol
+-Continue nephrocap</comm><itemts>**ID-NUM</itemts><trend></trend><full>ESRD</full><id>ESRD</id><on>on</on></item>
+<item><comm>cont coreg</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Hypertension</full><id>Hypertension_14</id><on>on</on></item>
+<item><comm>Continue atorvastatin</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Dyslipidemia</full><id>Dyslipidemia_15</id><on>on</on></item>
+<item><comm>:
+- DVT: heparin subq TID</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>  Prophylaxis</full><id>__Prophylaxis_14</id><on></on></item>
+<item><comm>:
+Hospitalization for now, discharge soon.</comm><itemts>**ID-NUM</itemts><trend></trend><full>Disposition</full><id>Disposition_15</id><on></on></item>
+<item><comm>full code</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Code status</full><id>Code_status_13</id><on>on</on></item>
+<item><comm>resolved</comm><itemts>**ID-NUM</itemts><trend></trend><full>Pneumothorax</full><id>Pneumothorax</id><on></on></item>
+<item><comm>stable Ca2+ x 24 hours off IV.  </comm><itemts>**ID-NUM</itemts><trend></trend><full>Hypocalcemia</full><id>Hypocalcemia</id><on></on></item>
+<item><comm>RIJ temporary vas-cath placed.</comm><itemts>**ID-NUM</itemts><trend></trend><full>Nonfunctioning AV fistula</full><id>Nonfunctioning_AV_fistula</id><on></on></item>
+<item><comm>- Hold coumadin (INR 1.6 this am)
+- Will re-start prior to d/c.</comm><itemts>**ID-NUM</itemts><trend></trend><full>h/o RUE DVT</full><id>h/o_RUE_DVT</id><on></on></item>
+<item><comm>- Continue nightly O2 2L NC</comm><itemts>**ID-NUM</itemts><trend></trend><full>h/o BOOP</full><id>h/o_BOOP</id><on></on></item>
+<item><comm>- Continue Sensipar</comm><itemts>**ID-NUM</itemts><trend></trend><full>Hyperparathyroidism</full><id>Hyperparathyroidism</id><on></on></item>
+<item><comm>- Continue Procardia XL and Catapress</comm><itemts>**ID-NUM</itemts><trend></trend><full>Hypertension</full><id>Hypertension</id><on></on></item>
+</Tab>
+</CodedUncoded>
+

@@ -1,0 +1,22 @@
+<CodedUncoded>
+<Tab name="PedsNeuro" mrno="**ID-NUM">
+<item><comm>-no change in AEDs at this time
+- please call if episodes continue so we can capture on eeg
+-will need to f/u with Dr. **NAME[ZZZ] who can then adjust her AEDs (hopefully taper them) as allowed.</comm><trend></trend><isprimary>on</isprimary><full>seizures</full><id>seizures_2</id><on>on</on></item>
+</Tab>
+<Tab name="Pediatrics" mrno="**ID-NUM">
+<item><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Seizure</full><id>Seizure_2</id><on>on</on></item>
+<item><trend></trend><full>Wound infection</full><id>Wound_infection_3</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Meningitis</full><id>Meningitis_4</id><on>on</on></item>
+</Tab>
+<Tab name="PCCU" mrno="**ID-NUM">
+<item><trend></trend><isprimary>on</isprimary><full>intractable seizures</full><id>intractable_seizures_2</id><on>on</on></item>
+<item><trend></trend><full>Left hemispherectomy</full><id>Left_hemispherectomy_3</id><on>on</on></item>
+</Tab>
+<Tab name="Medicine" mrno="**ID-NUM">
+<item><comm></comm><full>Non-Accidental Trauma</full><id>Non_Accidental_Trauma</id><on>on</on></item>
+<item><full>skull defect</full><id>skull_defect</id><on>on</on></item>
+<item><full>FTT s/p G-tube</full><id>FTT_s_p_G_tube</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

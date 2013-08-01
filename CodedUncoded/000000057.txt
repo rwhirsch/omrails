@@ -1,0 +1,37 @@
+<CodedUncoded>
+<Tab name="Medicine" mrno="**ID-NUM">
+<item><comm>Per read on CT most concerning for HCC. No known hx of cirrhosis or evidence on CT scan. Hep B and C serologies negative.  Has never had a colonoscopy.  
+-US guided bx **DATE[Aug 6]
+- final path pending
+-Laboratory liver function normal
+-No indication that this may be infectious process presently.
+-will need to follow-up in oncology clinic in 1-2 weeks</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Liver mass</full><id>Liver_mass_2</id><on>on</on></item>
+<item><comm>Sinus, unexplained, **NAME[ZZZ] RN normal throughout the day but spikes **NAME[YYY] RN or physician enters room
+- improved
+-2L NS on admission, minimal improvement
+-No obvious distress, no sign of PE on non-protocol CT
+-Non anxious appearing.
+-Slight hypoglycemia this AM </comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Tachycardia</full><id>Tachycardia_3</id><on>on</on></item>
+<item><comm>-Likely essential, Stage II, untreated. 180s/100s on admission
+- started on HCTZ 25 mg daily
+-Will likely need dual agent therapy; will allow PCP to titrate as needed
+-No known dx of CAD, CHF, DM
+- PCP f/u appt requested with Dr. **NAME[XXX] **DATE[Aug 6]
+or first available PCP </comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Hypertension</full><id>Hypertension_4</id><on>on</on></item>
+<item><comm>At least 4-5 drinks daily,
+- counseled multiple times over course of hospitalization on importance of EtOH cessation
+- pt expressed understanding and states he plans to quit
+-CIWA</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Persistent alcohol abuse</full><id>Persistent_alcohol_abuse_5</id><on>on</on></item>
+<item><comm>-lovenox</comm><trend></trend><full>prophy</full><id>prophy_6</id><on>on</on></item>
+</Tab>
+<Tab name="SICU" mrno="**ID-NUM">
+<item><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Pain</full><id>Pain_2</id><on>on</on></item>
+<item><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Delirium</full><id>Delirium_3</id><on></on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Hypertension</full><id>Hypertension_4</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Nutritional deficiency</full><id>Nutritional_deficiency_5</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Hypomagnesemia</full><id>Hypomagnesemia_6</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Anemia</full><id>Anemia_7</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Gastroesophageal reflux disease</full><id>Gastroesophageal_reflux_disease_8</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

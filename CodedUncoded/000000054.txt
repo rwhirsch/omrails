@@ -1,0 +1,41 @@
+<CodedUncoded>
+<Tab name="Medicine" mrno="**ID-NUM">
+<item><comm>.
+- LURD RTx **DATE[Sep 2012] for amyloidosis
+- IS: tacro level 13.6, restarted 3 mg Q12H this morning. Cont MMF at 1000 mg Q12H. 
+- Received stress dose steroids in MICU. Now on prednisone 15 mg daily (home dose).
+</comm><itemts>**ID-NUM</itemts><trend></trend><isprimary>on</isprimary><full>s/p Renal transplant</full><id>s_p_Renal_transplant_4</id><on>on</on></item>
+<item><comm>.
+- Most likely 2/2 viral gastro. Other considerations are c diff, cmv, bacteremia.
+- C diff neg. 
+- CMV quant <200 (and D-/R-)
+- BC NGTD, ctm.
+- Symptom control with anti-emetics
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>Nausea, vomiting, diarrhea</full><id>Nausea__vomiting__diarrhea_2</id><on>on</on></item>
+<item><comm>.
+- 17.5 2/26 but now improved to 6.2
+- infx w/u as above, negative.
+- D/c vanc-pip-tazo yesterday. Administered empirically on admission.
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>Leukocytosis</full><id>Leukocytosis_3</id><on>on</on></item>
+<item><comm>.
+- Trop peak 0.27, now downtrending.
+- EKG with ST depressions in infero-lateral leads.
+- Most likely 2/2 demand ischemia. Consider stress test as outpatient.
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>Elevated troponin</full><id>Elevated_troponin_10</id><on>on</on></item>
+<item><comm>.
+- Most likely prerenal 2/2 N/V/D and poor po intake.
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>AKI</full><id>AKI_12</id><on>on</on></item>
+<item><comm>.
+- Nifedipine ER 60 mg BID (home med)
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>Hypertension</full><id>Hypertension_5</id><on>on</on></item>
+<item><comm>.
+- Renal diet, tolerating.
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>Fluids/Nutrition</full><id>Fluids_Nutrition_9</id><on>on</on></item>
+<item><comm>.
+- Restarted bactrim, nystatin swish and swallow, and lortab.
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>Home Meds</full><id>Home_Meds_11</id><on>on</on></item>
+<item><comm>- FULL Code.</comm><itemts>**ID-NUM</itemts><trend></trend><full>Code Status</full><id>Code_Status_7</id><on>on</on></item>
+<item><comm>- To home </comm><itemts>**ID-NUM</itemts><trend></trend><full> Dispo</full><id>_Dispo_8</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

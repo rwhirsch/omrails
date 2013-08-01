@@ -1,0 +1,11 @@
+<CodedUncoded>
+<Tab name="NCU" mrno="**ID-NUM">
+<item><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Congenital arteriovenous malformation</full><id>Congenital_arteriovenous_malformation_2</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Ventricular hemorrhage</full><id>Ventricular_hemorrhage_7</id><on>on</on></item>
+<item><trend></trend><full>R parietal hematoma</full><id>R_parietal_hematoma_3</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Hypertension</full><id>Hypertension_4</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Leukocytosis</full><id>Leukocytosis_6</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Anemia</full><id>Anemia_8</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

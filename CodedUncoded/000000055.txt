@@ -1,0 +1,16 @@
+<CodedUncoded>
+<Tab name="Pediatrics" mrno="**ID-NUM">
+<item><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Fever</full><id>Fever_2</id><on>on</on></item>
+<item><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Diarrhea</full><id>Diarrhea_3</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Seizure</full><id>Seizure_4</id><on>on</on></item>
+</Tab>
+<Tab name="NBN" mrno="**ID-NUM">
+<item><comm>:
+1. well infant, continue routine care. formula feeding.
+2. VitK, erythromycin Hep B given 
+3. hearing, NBS and teaching prior to discharge
+4. Tcbili prior to discharge
+5. Follow up with Vandy Peds requested for saturday **DATE[Oct 22]</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Term infant</full><id>Term_infant_2</id><on></on></item>
+</Tab>
+</CodedUncoded>
+

@@ -1,0 +1,24 @@
+<CodedUncoded>
+<Tab name="Medicine" mrno="**ID-NUM">
+<item><comm>:
+She was admitted after syncopal episode after leaning over to pick something up and then developing nausea and passing out. Initial concern was for an ischemic equivalent but her EKG was normal and she had three sets of cardiac enzymes. She denies any palpitations and has had no arrythmias on telemetry. TFTs were normal. Head CT was normal and she had no neurologic deficits. No evidence of seizure or postictal period. She received IVFs in the ED and was not orthostatic after that, but it is possible she was volume depleted as she takes HCTZ and reports urinating many times a day and often waking at night to urinate (checked A1c as well which was normal). She does not have a PCP (goes to a walk-in to get BP meds filled) and would benefit from closer care. She agreed to be scheduled in our IM clinics here for closer followup. May benefit from Holter as outpatient. 
+</comm><itemts>**ID-NUM</itemts><trend></trend><isprimary>on</isprimary><full>Syncope</full><id>Syncope_2</id><on>on</on></item>
+<item><comm>:
+She was evaluated by Ortho spine and placed in C-collar for 6-8 weeks at which time she will followup with Ortho for repeat scan and hopefully removal of collar. She was instructed to wear collar at all times and to return to the ED if she experiences any neurologic symptoms. She was given Lortab prn for pain.
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>C6 fracture</full><id>C6_fracture_3</id><on>on</on></item>
+<item><comm>:
+She was incidentally found to have a 1.5cm thyroid nodule on CT scan. TFTs were normal.
+She will need a thyroid ultrasound as an outpatient (could wait until c-collar off). Set up with PCP for followup.
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>Thyroid nodules</full><id>Thyroid_nodules_4</id><on>on</on></item>
+<item><comm>:
+Her verapamil was continued and BP remained 110-120 systolic even though we were holding her Lisinopril/HCTZ. She was told to discontinue this medication at discharge and to have her BP checked when she follows up with her new PCP in 1-2 weeks.
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>HTN</full><id>HTN_5</id><on>on</on></item>
+<item><comm>:
+Statin continued while in-house.
+</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Hyperlipidemia</full><id>Hyperlipidemia_6</id><on>on</on></item>
+<item><comm>:
+Incidentally noted on CT spine in LUL, ill defined. CXR with no evidence of disease. Pt would benefit from followup CT of chest as outpatient. 
+</comm><trend></trend><full>Groundglass opacities on CT scan</full><id>Groundglass_opacities_on_CT_scan_7</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

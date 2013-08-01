@@ -1,0 +1,37 @@
+<CodedUncoded>
+<Tab name="Pediatrics" mrno="**ID-NUM">
+<item><comm>-Prenatally diagnosed, S/P repair 10/1
+-STEP procedure, jejunostomy **DATE[May 28]</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Gastroschisis</full><id>Gastroschisis_2</id><on>on</on></item>
+<item><comm>- 35 2/7 weeks gestation, 2870 grams BW</comm><itemts>**ID-NUM</itemts><trend></trend><full>Prematurity</full><id>Prematurity_3</id><on>on</on></item>
+<item><comm>NPO</comm><itemts>**ID-NUM</itemts><trend></trend><full>Feeding establishment</full><id>Feeding_establishment_4</id><on>on</on></item>
+<item><comm>- Cholestasis resolved on omegaven </comm><itemts>**ID-NUM</itemts><trend></trend><full>Direct hyperbilirubinemia</full><id>Direct_hyperbilirubinemia_6</id><on>on</on></item>
+<item><comm>- Will need home TPN at discharge; continued problems with dumping</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Intestinal malabsorption</full><id>Intestinal_malabsorption_11</id><on>on</on></item>
+<item><comm>-selsun blue started 1/15</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Seborrheic dermatitis</full><id>Seborrheic_dermatitis_10</id><on>on</on></item>
+<item><comm>- Selsun blue, aquaphor, hydrocortisone</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Eczema</full><id>Eczema_14</id><on>on</on></item>
+<item><comm>-Coag positive staph blood 2/13- MSSA, +2/14 as well, 2/15 and 2/16 NG final (both post Vanc)</comm><itemts>**ID-NUM</itemts><trend></trend><full>Sepsis</full><id>Sepsis_13</id><on></on></item>
+<item><comm>due to GI losses; replacing in TPN -- better today at 133</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Hyponatremia</full><id>Hyponatremia_12</id><on></on></item>
+<item><itemts>**ID-NUM</itemts><trend></trend><full>Iatrogenic neonatal abstinence syndrome</full><id>Iatrogenic_neonatal_abstinence_syndrome_9</id><on></on></item>
+<item><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Postoperative pain</full><id>Postoperative_pain_8</id><on></on></item>
+<item><comm>started on vanc per surgery recs 12/1 when abd became reddened. 
+Cont Zosyn (started **DATE[May 28] postop)</comm><itemts>**ID-NUM</itemts><trend></trend><full>Possible sepsis</full><id>Possible_sepsis_5</id><on></on></item>
+<item><comm>most recent plt ct 188k (Nadir 103k), coags normal</comm><itemts>**ID-NUM</itemts><trend></trend><full>Thrombocytopenia</full><id>Thrombocytopenia_7</id><on></on></item>
+</Tab>
+<Tab name="NICU" mrno="**ID-NUM">
+<item><comm>-Prenatally diagnosed, S/P repair 10/1
+-STEP procedure, jejunostomy **DATE[May 28]</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Gastroschisis</full><id>Gastroschisis_2</id><on>on</on></item>
+<item><comm>- 35 2/7 weeks gestation, 2870 grams BW</comm><itemts>**ID-NUM</itemts><trend></trend><full>Prematurity</full><id>Prematurity_3</id><on>on</on></item>
+<item><comm>NPO</comm><itemts>**ID-NUM</itemts><trend></trend><full>Feeding establishment</full><id>Feeding_establishment_4</id><on>on</on></item>
+<item><comm>- Cholestasis resolved on omegaven </comm><itemts>**ID-NUM</itemts><trend></trend><full>Direct hyperbilirubinemia</full><id>Direct_hyperbilirubinemia_6</id><on>on</on></item>
+<item><comm>- Will need home TPN at discharge; continued problems with dumping</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Intestinal malabsorption</full><id>Intestinal_malabsorption_11</id><on>on</on></item>
+<item><comm>-selsun blue started 1/15</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Seborrheic dermatitis</full><id>Seborrheic_dermatitis_10</id><on>on</on></item>
+<item><comm>- Selsun blue, aquaphor, hydrocortisone</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Eczema</full><id>Eczema_14</id><on>on</on></item>
+<item><comm>-Coag positive staph blood 2/13- MSSA, +2/14 as well, 2/15 and 2/16 NG final (both post Vanc)</comm><itemts>**ID-NUM</itemts><trend></trend><full>Sepsis</full><id>Sepsis_13</id><on></on></item>
+<item><comm>due to GI losses; replacing in TPN -- better today at 133</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Hyponatremia</full><id>Hyponatremia_12</id><on></on></item>
+<item><itemts>**ID-NUM</itemts><trend></trend><full>Iatrogenic neonatal abstinence syndrome</full><id>Iatrogenic_neonatal_abstinence_syndrome_9</id><on></on></item>
+<item><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Postoperative pain</full><id>Postoperative_pain_8</id><on></on></item>
+<item><comm>started on vanc per surgery recs 12/1 when abd became reddened. 
+Cont Zosyn (started **DATE[May 28] postop)</comm><itemts>**ID-NUM</itemts><trend></trend><full>Possible sepsis</full><id>Possible_sepsis_5</id><on></on></item>
+<item><comm>most recent plt ct 188k (Nadir 103k), coags normal</comm><itemts>**ID-NUM</itemts><trend></trend><full>Thrombocytopenia</full><id>Thrombocytopenia_7</id><on></on></item>
+</Tab>
+</CodedUncoded>
+

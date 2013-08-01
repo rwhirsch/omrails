@@ -1,0 +1,28 @@
+<CodedUncoded>
+<Tab name="NBN" mrno="**ID-NUM">
+<item><comm>:
+Term Infant H&P Plan:
+- Hepatitis B given
+- Vitamin K and erythromycin given
+- GBS: negative     ROM: <1 h
+- Infant is breastfeeding, lactation consulted
+- Follow daily weight and I/Os
+- MBT: A+ 
+- Plan to follow-up with VCH Peds.
+Social:
+- social work consulted to help with transportation services
+Screening 
+- POx: 100%
+- Transcutaneous bilirubin: 7.7 @ 40h
+- NBS sent
+- Hearing exam passed bilaterally
+.</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Term infant</full><id>Term_infant_2</id><on>on</on></item>
+<item><comm>:
+Diagnosed prenatally
+- Prenatal visit w/ Dr. **NAME[ZZZ]
+- Ortho team consulted 
+- Planning for f/u in 3 weeks
+.</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Equinovarus deformity of foot</full><id>Equinovarus_deformity_of_foot_3</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

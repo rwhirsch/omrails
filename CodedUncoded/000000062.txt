@@ -1,0 +1,11 @@
+<CodedUncoded>
+<Tab name="Pain" mrno="**ID-NUM">
+<item><comm>1. Sedation improved **DATE[Sept 5].  Pain control adequate on current regimen.  Recommend continuing current medication regimen:
+- tylenol 1gm q6h
+- celebrex 100mg BID
+- oxycodone 5-10 mg q4h prn
+2.  If additional IV PRN pain meds are needed for bedside wound care, may consider fentanyl 25 Âµg x 1 to replace dilaudid. This may increase tolerability for the patient.
+2.  CPS will sign off.  Please page **PHONE with any questions or concerns.   </comm><itemts>**ID-NUM</itemts><trend></trend><isprimary>on</isprimary><full>Pain</full><id>Pain_2</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

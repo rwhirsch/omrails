@@ -1,0 +1,13 @@
+<CodedUncoded>
+<Tab name="NICU" mrno="**ID-NUM">
+<item><comm>- 32 **DATE[Nov 28] weeks</comm><itemts>**ID-NUM</itemts><trend></trend><isprimary>on</isprimary><full>prematurity</full><id>prematurity_2</id><on>on</on></item>
+<item><comm>- 2230 grams</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Low birth weight infant</full><id>Low_birth_weight_infant_3</id><on>on</on></item>
+<item><comm>- intubated s/p curosurf x 1, extubated DOL 1, on NC 0.5 LPM</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Respiratory distress syndrome in the newborn</full><id>Respiratory_distress_syndrome_in_the_newborn_6</id><on>on</on></item>
+<item><comm>Will need hip U/S at 6 weeks</comm><itemts>**ID-NUM</itemts><trend></trend><full>risk of hip dysplasia due to breech presentation</full><id>risk_of_hip_dysplasia_due_to_breech_presentation_7</id><on>on</on></item>
+<item><comm>- HUS **DATE[Nov 24] WNL, improving</comm><itemts>**ID-NUM</itemts><trend></trend><full>Hypotonia</full><id>Hypotonia_8</id><on>on</on></item>
+<item><comm>-tol increasing feeds, supplemented with TPN and IL</comm><trend></trend><full>Feeding establishment</full><id>Feeding_establishment_9</id><on>on</on></item>
+<item><comm>- amp/ gent discontinued on 3/2.</comm><itemts>**ID-NUM</itemts><trend></trend><full>possible sepsis</full><id>possible_sepsis_4</id><on></on></item>
+<item><comm>- s/p NS bolus x 2, now resovlved</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Low blood pressure</full><id>Low_blood_pressure_5</id><on></on></item>
+</Tab>
+</CodedUncoded>
+

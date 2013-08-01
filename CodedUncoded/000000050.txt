@@ -1,0 +1,24 @@
+<CodedUncoded>
+<Tab name="Medicine" mrno="**ID-NUM">
+<item><comm>Severe with AV valve area of <0.7cm^2 and a gradient of 51 mmHg per TTE at OSH on **DATE[May 3]. He had recent worsening of fatigue and shortness of breath potentially attributable to AS, however without syncope/pre-syncope or angina. He was transferred from OSH for TAVR evaluation; after discussion the risks and benefits he and his family decided not to pursue TAVR. Given his poor prognosis with unrepaired AS palliative care was consulted. WIth their assitance Mr. **NAME[AAA] and his family elected discharge to SNF with palliative services with the goal of returning to ALF with hospice. He was asymptomatic with respect to his AS at time of discharge. 
+</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Aortic valve stenosis</full><id>Aortic_valve_stenosis_2</id><on>on</on></item>
+<item><comm>Chronic valvular and systolic with LVEF 35% per recent echo.  He had undergone aggressive diuresis prior to transfer and remained euvolemic throughout his admission. Furosemide will be continued as needed after discharge for symptomatic relief. 
+</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Heart failure</full><id>Heart_failure_4</id><on>on</on></item>
+<item><comm>Reported  by imaging at OSH.  Given the poor prognosis of his AS, likely no follow up will be required. 
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>Pulmonary Nodules</full><id>Pulmonary_Nodules_7</id><on>on</on></item>
+<item><comm>He remained in sinus rhythm but had significant bradycardia and pauses so his digoxin was held. It was restarted at a lower dose on discharge. His warfarin was changed to aspirin to minimize risk of bleeding. 
+</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Atrial fibrillation</full><id>Atrial_fibrillation_8</id><on>on</on></item>
+</Tab>
+<Tab name="PallCare" mrno="**ID-NUM">
+<item><comm>DNR/DNI.</comm><itemts>**ID-NUM</itemts><trend></trend><isprimary>on</isprimary><full>Code Status</full><id>Code_Status_2</id><on>on</on></item>
+<item><comm>I met with daughter (poa) and son.  They report that patient has had progressive dementia over the past 2 years.  He has a living will stating that he authorized withhold or withdrawal of life prolonging therapies if determined to be in an irreversible condition.  Consistent with this, patient is DNR/DNI.  
+Family is hoping for patient to go back to **NAME[ZZZ] Place where he owns an assisted living facility.   He can go to a SNF there and hopefully transition back to assisted living.  They would like Pall Care during SNF and are open to hospice when he returns to assisted living.  </comm><itemts>**ID-NUM</itemts><trend></trend><full>Goals of care</full><id>Goals_of_care_3</id><on>on</on></item>
+<item><comm>Dyspnea.
+-Oxygen NC
+-COPD medications
+-Rec oxy ir 2.5mg po q4h prn </comm><itemts>**ID-NUM</itemts><trend></trend><full>Symptom Managment </full><id>Symptom_Managment__5</id><on>on</on></item>
+<item><comm>Plan to discharge to **NAME[YYY]'s Place SNF.  
+**NAME[XXX WWW] contact at **NAME[YYY]--**PHONE.  SNF bed available Friday.  Pall Med team to arrange PC services to follow patient at **NAME[YYY]'s Place. </comm><itemts>**ID-NUM</itemts><trend></trend><full>Dispo</full><id>Dispo_4</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

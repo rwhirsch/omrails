@@ -1,0 +1,49 @@
+<CodedUncoded>
+<Tab name="PedsCard" mrno="**ID-NUM">
+<item><comm>.
+Tricuspid and pulmonary atresia
+</comm><itemts>**ID-NUM</itemts><trend></trend><isprimary>on</isprimary><full>Native anatomy</full><id>Native_anatomy_2</id><on>on</on></item>
+<item><comm>.
+**DATE[Dec 24 2011] Dr. **NAME[ZZZ]
+1. Right modified Blalock-Taussig shunt, 3.5 mm.
+2. Left pulmonary arterioplasty (main pulmonary artery advancement flap augmentation of left pulmonary artery).
+3. Transthoracic right atrial line placement.
+4. Patent ductus arteriosus (PDA) ligation and division through sternotomy.
+**DATE[Jun 11 2010] Dr. **NAME[ZZZ]
+1. Bidirectional cavopulmonary anastomosis.
+2. Atrial septectomy.
+3. Takedown of modified Blalock-Taussig shunt.
+**DATE[Feb 01 2012] Dr. **NAME[ZZZ]
+1. Fontan procedure with 18-mm extracardiac conduit and 4-mm fenestration.
+2. Freeze-dried homograft pericardial patchplasty of retroaortic left pulmonary artery
+**DATE[May 12 2012] Dr. **NAME[YYY]
+1. VAD implant
+**DATE[Sep 18 2012] Dr. **NAME[YYY]
+1. Orthotopic heart transplant.
+2. Ventricular assist device explantation.
+3. Cannulation for veno-arterial ECMO.
+**DATE[Sep 19 2012] Cardiac Cath Dr. **NAME[XXX]/Dr. **NAME[WWW]
+1. Proximal stenosis (3mm) of the LPA enlarged to 5.7 mm with stent
+implantation.
+2. Signficant collateral flow through the mammary arteries which were
+embolized.
+3. Unobstructed coronary flow
+4. IVC partially obstructed by venous cannula 
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>Surgical interventions</full><id>Surgical_interventions_3</id><on>on</on></item>
+<item><comm>Echo: **DATE[Oct 06 2012]: 
+Normal biventricular size.
+Good biventricular wall motion with septal akinesis.
+Trivial MR.
+***NAME[BBB CCC DDD].
+Trivial posterior and anterior pericardial effusions.
+Mild branch PS. </comm><itemts>**ID-NUM</itemts><trend></trend><full>Current Hemodynamics</full><id>Current_Hemodynamics_5</id><on>on</on></item>
+<item><comm>PVCs and couplets</comm><itemts>**ID-NUM</itemts><trend></trend><full>Rhythm Issues</full><id>Rhythm_Issues_6</id><on>on</on></item>
+<item><itemts>**ID-NUM</itemts><trend></trend><full>Thrombosis</full><id>Thrombosis_7</id><on></on></item>
+<item><itemts>**ID-NUM</itemts><trend></trend><full>Other Diagnosis</full><id>Other_Diagnosis_8</id><on></on></item>
+</Tab>
+<Tab name="PCCU" mrno="**ID-NUM">
+<item><trend></trend><isprimary>on</isprimary><full>Heart Transplant</full><id>Heart_Transplant_3</id><on>on</on></item>
+<item><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Heart failure</full><id>Heart_failure_2</id><on></on></item>
+</Tab>
+</CodedUncoded>
+

@@ -1,0 +1,46 @@
+<CodedUncoded>
+<Tab name="GMS" mrno="**ID-NUM">
+<item><comm>Mr. **NAME[AAA] is a **AGE[in 60s] yo M w/a hx of DM, primary cerebellardegenerative syndrome, and HTN who presented to the E.D.  with hyperglycemia.  Blood glucose on admission > 400.   
+Hyperglycemic yesterday following lunch.  This was due to no insulin given at meal time.  All other blood glucose has remained stable.  Will continue with current regimen 
+If you have any questions please contact the GMS team at **PHONE.  Thank you </comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Diabetes mellitus</full><id>Diabetes_mellitus_2</id><on>on</on></item>
+</Tab>
+<Tab name="Medicine" mrno="**ID-NUM">
+<item><comm>: 
+Bilaterally patchy infiltrates on CXR, concerning for aspiration as well. Pt initially refusing to be evaluated by speech therapy, now willing to proceed
+- repeat CXR **DATE[Aug 6] unchanged with addition of a small pleural effusion. 
+- Ceftriaxone **DATE[Aug 6]--> **DATE[Aug 7]
+- Azithro **DATE[Aug 6]--> current
+- Zosyn **DATE[Aug 6]--> current; switch to unasyn with plans to change to oral augmentin on discharge.
+- blood cultures NGTD
+- sputum cultures: resp flora
+- nebs, guaifenesin, acapella
+- supplemental O2 as needed to maintain O2 > 92%. 
+- Lasix IV x 2 doses</comm><itemts>**ID-NUM</itemts><trend></trend><isprimary>on</isprimary><full>CAP</full><id>CAP_3</id><on>on</on></item>
+<item><comm>: 
+Mild DKA given ketones in urine and mild anion gap acidosis.  Likely elevated 2/2 infection. Gap now closed with IVF. Endocrine concerned for a bad batch of insulin and advised pt to throw out current vial. Pt oppositional about changing regimen
+- resumed home lantus. 
+- mealtime insulin
+- variable glucose levels , now corrected
+- glucose management team assisting with care, appreciate input</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Hyperglycemia</full><id>Hyperglycemia_2</id><on>on</on></item>
+<item><comm>:  
+Prerenal. Now at baseline after IVF</comm><itemts>**ID-NUM</itemts><trend></trend><full>AKI</full><id>AKI_7</id><on>on</on></item>
+<item><comm>: 
+suggestive of UTI, but does not have sx
+- Urine culture < 10K of proteus
+- likely not true UTI; also has been covered by ABX.</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Urine microscopy: leukocytes present</full><id>Urine_microscopy__leukocytes_present_4</id><on>on</on></item>
+<item><comm> likely from IV lasix
+- resolved;  repleted with PO potassium and Mag repletion.</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Hypokalemia</full><id>Hypokalemia_10</id><on>on</on></item>
+<item><comm>:
+- continue statin</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Hyperlipidemia</full><id>Hyperlipidemia_5</id><on>on</on></item>
+<item><comm>: 
+BP improved.
+- continue norvasc, HCTZ, propranolol with hold parameters
+- added back Benicar </comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Hypertension</full><id>Hypertension_6</id><on>on</on></item>
+<item><comm>:
+- Lovenox started, renal fxn ok.  </comm><itemts>**ID-NUM</itemts><trend></trend><full>Prophylaxis</full><id>Prophylaxis_8</id><on>on</on></item>
+<item><comm>:
+Pt reports he lives at home with a care provider and that his son is power of attorney. Team called his son, **NAME[CCC AAA]  **PHONE), over weekend.  Attempted to call him to update him on plan of care, message left.
+PT/OT eval recs are for inpt rehab, SW aware.  Plan for transfer today.</comm><itemts>**ID-NUM</itemts><trend></trend><full>Discharge planning</full><id>Discharge_planning_9</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

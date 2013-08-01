@@ -1,0 +1,42 @@
+<CodedUncoded>
+<Tab name="Medicine" mrno="**ID-NUM">
+<item><comm>-resolved on admission, presumed attributable to supratherapeutic beta blockade vs. early signs of sick sinus 
+-no events on telemetry
+-cardiac enzymes negative
+-decreased home metoprolol 50mg in am and 100mg in pm to metoprolol 25mg q12h and will uptitrate as needed as outpatient
+-followup scheduled with Dr. **NAME[ZZZ]</comm><itemts>**ID-NUM</itemts><full>Bradycardia</full><id>***ID-NUM</id><on>on</on></item>
+<item><comm>-enzymes and chest xray normal
+-EKG with slow afib, no signs of ischemia
+-cardiac enzymes negative x 3
+-presumably attributable to bradycardia + indigestion as relieved with belching
+-resolved with maalox and simethicone solution
+-recent stress test in **DATE[Jan].negative for ischemia and LHC in **DATE[Apr]. with nothing intervenable
+-Dr. **NAME[ZZZ] has referred him to Dr. **NAME[YYY] for GI eval (EGD 10yrs ago per pt for indigestion normal; never had colonoscopy or colon ca screening); appointment **DATE[Mar 5]. 11th
+-d/c with famotidine and simethicone
+-of note, we have continued patient's home baby aspirin pending GI eval</comm><itemts>**ID-NUM</itemts><full>Chest pain</full><id>***ID-NUM</id><on>on</on></item>
+<item><comm>ischemic cardiomyopathy, chronic systolic and diastolic, left and right
+-EF improved on last echo
+-no SOB
+-BNP 696
+-started valsartan as planned by Dr. **NAME[ZZZ]
+-metoprolol decreased to 25mg bid (Toprol 50am/100pm at home)
+-home spironolactone 
+-fluid restriction to 2L, low sodium diet
+PFTs normal 2010 
+not on home statin and patient thinks bad reaction in past, deferring to Dr. **NAME[ZZZ],
+LDL 95 on **DATE[Jan 28 10] </comm><itemts>**ID-NUM</itemts><full>Congestive heart failure</full><id>Congestive_heart_failure</id><on>on</on></item>
+<item><comm>-warfarin 6mg tonight
+-daily INRs
+-decreasing AV nodal blockade given apparent symptomatic bradycardia
+-metoprolol 25mg q12h for now on telemetry
+-if this turns out to not be medication related and rather sick sinus, will need consideration for pacemaker; ICD was likely indicated for his cardiomyopathy however his EF seems to have improved based on last echo</comm><itemts>**ID-NUM</itemts><full>Atrial fibrillation</full><id>Atrial_fibrillation</id><on>on</on></item>
+<item><comm>-start valsartan 320mg qday
+-metoprolol 25mg q12h
+Pt also has hx of RAS; s/p stenting</comm><itemts>**ID-NUM</itemts><full>Hypertension</full><id>Hypertension_8</id><on>on</on></item>
+<item><comm>-on chronic coumadin however, subtherapeutic this admission; 5mg --> 6mg qhs; patient to followup in anticoagulation clinic as before</comm><itemts>**ID-NUM</itemts><full>Prophylaxis</full><id>Prophylaxis</id><on>on</on></item>
+<item><comm>-cont. home Lexapro</comm><itemts>**ID-NUM</itemts><full>Depression</full><id>Depression</id><on></on></item>
+<item><comm> 
+</comm><itemts>**ID-NUM</itemts><full>Coronary artery disease</full><id>Coronary_artery_disease</id><on></on></item>
+</Tab>
+</CodedUncoded>
+

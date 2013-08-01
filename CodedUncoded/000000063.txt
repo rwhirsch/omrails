@@ -1,0 +1,58 @@
+<CodedUncoded>
+<Tab name="Medicine" mrno="**ID-NUM">
+<item><comm>: 
+-percocet for pain, dilaudid for breakthrough
+-cont full liquid diet today
+-d/c pending BM or flatus</comm><itemts>**ID-NUM</itemts><trend></trend><isprimary>on</isprimary><full>Today's Plan</full><id>Today_s_Plan_9</id><on></on></item>
+<item><comm>:
+- s/p colectomy, J-pouch, diverting ileostomy, and ostomy takedown 
+- s/p 3 anti-tnf-alpha therapies and aza, most recently on remicade 5mg/kg
+-JC virus negative on prior test, retest pending
+---------------------------------------------------------------
+Pt was admitted for profuse bloody diarrhea.  She had recently restarted remicade at 5mg/kg dose.  Recent **DATE[Feb 18] pouchoscopy had revealed pouchitis. Enterocort was continued.  C. diff was negative.  Cipro and flagyl were started on admission.
+Pouchoscoy was repeated here on **DATE[Feb 18] , revealing no inflammation of pouch but severe inflammation of the rectal cuff.  Proctofoam was started tid with cortifoam prescribed for discharge (not available in formulary.)  
+Remicade was given on **DATE[Feb 18] at a dose of 460mg (10mg/kg). Given her history of interupted use in the past, we monitored closely for transfusion reaction and premedicated with benadryl and steroids.
+Developed diffuse cramping abdominal pain
+after eating a full dinner that night, then became tachycardic to the 150s (EKG showed sinus tachycardia with no other abnormalities) and received 0.5L NS bolus. Received morphine 4mg IV and developed a red linear
+rash that followed the course of her vein as the morphine was administered. (had tolerated morphine in the past.) Then received dilaudid.  About 15 hours after the dose was administered, she developed a 30 minute episode of diffuse itching in her chest, hands, legs and tongue. She has not noticed any hives or rashes beyond the red rash in her arm
+after receiving morphine, which has since resolved.  It was unclear to us whether this was a reaction to the remicade or morphine. 
+After the procedure on **DATE[Feb 18], the patient stopped having flatus and bms, which is very usual for her.  KUB showed no gas in the rectum, and was concerning for low obstruction vs ileus.  Although bowel movemtns did not return, by **DATE[Feb 26] the patient was able to tolerate regular diet without pain, nausea, or vomitting.  We believed her lack of bowel movements was likely opiate ileus.  She was eager to leave the hospital and felt well.  We discharged her to close GI follow up with Dr. **NAME[ZZZ].
+PCV remained stable throughout the hospital stay.  Vitals were stable except for brief episodes of ST as noted above.
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>Indeterminate Colitis</full><id>Indeterminate_Colitis_7</id><on>on</on></item>
+<item><comm>-
+-cipro (**DATE[Feb 18] -**DATE[Mar 4])
+-flagyl (**DATE[Feb 18] -**DATE[Mar 4])
+-c.diff neg
+-stool culture neg
+-repeat JC pending
+-rectal bx CMV neg
+-serum CMV IgG and IgM neg</comm><itemts>**ID-NUM</itemts><trend></trend><full> ID</full><id>_ID_10</id><on>on</on></item>
+<item><comm>DISPO:
+GI: Local is Dr. **NAME[YYY] in **INSTITUTION at VUMC
+Home GI: Followed by GI in NC (Dr. **NAME[XXX]) since dx in 2007 
+PPX
+DVT - Ambulatory, and holding other DVT pphyx in setting of bloody ostomy output
+GI - omeprazole po home regimen
+FULL CODE</comm><itemts>**ID-NUM</itemts><trend></trend><full> Other</full><id>_Other_11</id><on></on></item>
+<item><comm>:
+- infection vs IBD flare
+- ESR, CRP, stool cultures, C diff pending
+- last EGD/ileoscopy **DATE[Nov 2011] which showed 3 ulcers within the stoma
+- empiric cipro/flagyl
+- po ppi
+- will consider steroids pending infection r/o
+- may require repeat EGD/Cscope 
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>Bloody Ostomy Output</full><id>Bloody_Ostomy_Output_5</id><on></on></item>
+<item><comm>:
+- avoid NSAIDs in IBD pt
+- APAP prn
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>Abdominal Pain</full><id>Abdominal_Pain_6</id><on></on></item>
+<item><comm>:
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>Pphyx</full><id>Pphyx_4</id><on></on></item>
+<item><itemts>**ID-NUM</itemts><trend></trend><full>DISPO:</full><id>DISPO__2</id><on></on></item>
+<item><itemts>**ID-NUM</itemts><trend></trend><full>FULL CODE </full><id>FULL_CODE__3</id><on></on></item>
+<item><comm>:
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>Problem List</full><id>Problem_List_8</id><on></on></item>
+</Tab>
+</CodedUncoded>
+

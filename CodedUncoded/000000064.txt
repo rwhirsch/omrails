@@ -1,0 +1,16 @@
+<CodedUncoded>
+<Tab name="OB/GYN" mrno="**ID-NUM">
+<item><comm>1. Stable PPD #2  s/p SVD
+1. Discharge home per WIZ orders
+2. Routine postpartum care and precautions discussed
+3. Breastfeeding: discussed pumping until firt sign of let down and then attempting latch
+4. Male infant: circ requested, peds discussing to be done by 
+5. Blood type: 0+
+6. Rubella: immune
+7. EPDS: 3
+8. Contraception: plans husband to have vasectomy, may try POP but plans to get to at VA
+9. Discharge: pt requests d/c home today when baby is ready for d/c
+10. f/u: 6 weeks pp  </comm><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Vaginal delivery</full><id>Vaginal_delivery_2</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

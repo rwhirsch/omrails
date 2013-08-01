@@ -1,0 +1,18 @@
+<CodedUncoded>
+<Tab name="OB/GYN" mrno="**ID-NUM">
+<item><comm>
+1. baseline 24 hr urine 170mg
+2. baseline HELLP labs wnl
+3. no meds
+4. VSS, BP 110/65.</comm><itemts>**ID-NUM</itemts><trend></trend><isprimary>on</isprimary><full>Chronic HTN</full><id>Chronic_HTN_3</id><on>on</on></item>
+<item><comm>PPD# 2
+Mother doing well S/P vaginal delivery
+1. Continue Wiz based orders.
+2. Routine postpartum care and precautions
+3. Postpartum Depression score 0
+4. D/C Meds: Motrin and Colace.
+5. BCM: Will decide at postpartum visit.
+6. Follow up postpartum at 6 weeks  with **NAME[ZZZ YYY] CNM</comm><itemts>**ID-NUM</itemts><trend></trend><full>postpartum</full><id>postpartum_4</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

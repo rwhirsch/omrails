@@ -1,0 +1,118 @@
+<CodedUncoded>
+<Tab name="Medicine" mrno="**ID-NUM">
+<item><comm>: 
+-**DATE[Mar 2]BCx with enterococcus, sensitive to vanc, amp, gent 
+-**DATE[Mar 2]repeat BCx with enterococcus
+-**DATE[Mar 2], **DATE[Mar 6]BCx NGTD
+- Found to have veg on RV lead
+- Arrhythmia assisting, pulled device **DEVICE-ID/***ID-NUM
+  - Last shock in **DATE[2011].
+-Switched from vanc to amp/gent per ID recs on **DATE[Mar 2], as this has better activity vs enterococcus than vanc. PK assisting with gent dosing. Will likely switch to zosyn and gent for ease of dosing as outpt
+-Teeth pulled **DATE[Mar 9]
+-PICC placed **DATE[Mar 9]
+-LUE PICC line attempted **DATE[Mar 13], but unable to pass catheter, left IJ PICC unsuccessful
+Plan:
+-s/p Vanc: -**DATE[Mar 2]- **DATE[Mar 9]; **DATE[Mar 19]
+-> **DATE[Mar 21]
+-s/p Ampicillin: -**DATE[Mar 2]- **DATE[Mar 9]; **DATE[Mar 19]
+-> **DATE[Mar 21]
+-Gentamicin: **DATE[Mar 2->
+-Zosyn *DATE[Mar 21]->
+-ID following, appreciate recs
+-PK following, appreciate assistance with gent
+- Arrhythmia following, appreciate recs. 
+- Will need 4-6 weeks of therapy
+</comm><itemts>**ID-NUM</itemts><trend></trend><isprimary>on</isprimary><full>GPC bacteremia</full><id>GPC_bacteremia_10</id><on></on></item>
+<item><comm>:
+-h/o ICD shock one time; currently without ICD since removal *DATE[Mar 9]
+-On tele, having frequent PVCs and brief bursts of VT
+-asymptomatic
+-keeping K > 4
+-Increasing Coreg to 25mg bid 
+-Will d/c with lifevest and plan to implant ICD when duration of IV abx finishes
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>Ventricular ectopy</full><id>***ID-NUM</id><on></on></item>
+<item><comm>:
+-Reproducible to palpation, sharp in nature, most c/w costochondritis in setting of URTI
+-Sharp nature and similarity to PE pain, may have a component of lung inflammation
+-CE's neg
+-CTA without new PE
+-RVP neg
+-LLL Infiltrate vs atelectasis on CTA. However, currently afebrile and without productive cough. 
+-Now resolved
+Plan:
+-percocet for pain
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>Chest pain</full><id>***ID-NUM</id><on></on></item>
+<item><comm>: 
+- C diff negative
+- Will treat symptomatically
+</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Diarrhea</full><id>***ID-NUM</id><on></on></item>
+<item><comm>:
+-started **DATE[Mar 2]after colonoscopy
+-non-peritonitic on exam
+-**DATE[Mar 2]KUB and CXR without free air
+-pain continuing.
+-CT AP on **DATE[Mar 9] changed
+-simethicone and opioids for pain
+</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Abdominal pain</full><id>***ID-NUM</id><on></on></item>
+<item><comm>:
+-diagnosed **DATE[Mar 2012]
+-no new clot on CTA
+-Held Coumadin in setting of multiple procedures
+-SubQ enoxaparin prophy
+-Restart warfarin 
+</comm><itemts>**ID-NUM</itemts><trend></trend><full> PE</full><id> ***ID-NUM</id><on></on></item>
+<item><comm>:
+-chronic, systolic 2/2 ischemic cardiomyopathy
+-not currently volume overloaded
+-**INITIALS removed on **DATE[Mar 9]
+-continue home coreg, torsemide
+-lifevest on d/c
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>CHF</full><id>***ID-NUM</id><on></on></item>
+<item><comm>:
+-L hip pain c/w prior postherpetic neuralgia
+-Lidocaine patch placed
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>Post-herpetic neuralgia</full><id>***ID-NUM</id><on></on></item>
+<item><comm>:
+-QTc 513, Repeat EKG with QTc 460
+-Avoid QT prolonging agents
+-Stopped home trazodone and decreased paxil
+-No zofran/phenergan; will use benzos for nausea</comm><itemts>**ID-NUM</itemts><trend></trend><full>Long QT</full><id>***ID-NUM</id><on></on></item>
+<item><comm>:
+-continue home synthroid</comm><itemts>**ID-NUM</itemts><trend></trend><full>Hypothyroidism</full><id>***ID-NUM</id><on></on></item>
+<item><comm>:
+-home lantus 10 qhs
+-SSI</comm><itemts>**ID-NUM</itemts><trend></trend><full>DM2</full><id>***ID-NUM</id><on></on></item>
+<item><comm>:
+-home gabapentin
+-reduced paxil dose for long QT</comm><itemts>**ID-NUM</itemts><trend></trend><full>Chronic pain</full><id>Chronic_pain_6</id><on></on></item>
+<item><comm>:
+-stopped trazodone d/t long QT
+-valium for sleep</comm><itemts>**ID-NUM</itemts><trend></trend><full> Anxiety</full><id>_Anxiety_11</id><on></on></item>
+<item><comm>:
+-sclerotic lesion in L humerus on CXR
+-benign appearance, unchanged from 2005
+-no further workup
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>Humeral lesion on CXR</full><id***ID-NUM</id><on></on></item>
+<item><comm>:
+Diet:
+-diabetic 2g Na restricted
+Prophy:
+-subq lovenox
+Access:
+-PICC
+Dispo:
+-Likely home after setting up with lifevest
+Code:
+-FULL CODE, discussed on admission</comm><itemts>**ID-NUM</itemts><trend></trend><full>Other</full><id>***ID-NUM</id><on></on></item>
+<item><trend></trend><full>Infected pacemaker/ICD lead</full><id>***ID-NUM</id><on>on</on></item>
+<item><trend></trend><full>Enterococcal bacteremia</full><id>***ID-NUM</id><on>on</on></item>
+<item><trend></trend><full>Ventricular ectopy</full><id>***ID-NUM</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Prolonged QT interval</full><id>***ID-NUM</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Hypertension</full><id>Hypertension_21</id><on>on</on></item>
+<item><trend></trend><full>Chronic systolic heart failure</full><id>Chronic_systolic_heart_failure_22</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Diabetes mellitus</full><id>Diabetes_mellitus_23</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Hypothyroidism</full><id>Hypothyroidism_24</id><on>on</on></item>
+<item><trend></trend><full>Previous pulmonary embolism</full><id>Previous_pulmonary_embolism_25</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

@@ -1,17 +1,15 @@
 <% if user_signed_in? %>
-<h1>You're logged in!</h1>
+<h1>Welcome to Your Health Records!</h1>
 <% else %>
 <div class="row-fluid">
   <div class="span4">
-  	<h2>Navigation Bar</h2>
+  	<h2>Sign up to begin taking control of your health.</h2>
   </div>
   <div class="span8">
 		<div class="hero-unit">
-			<h1>VUMC App Challenge</h1>
+			<h1>Vanderbilt Health App Challenge</h1>
 		<p>
-			You/ve found the home page for the
-		<%= link_to "Vanderbilt App Challenge", "#" %>
-		application.
+		View all of your medical records and test results in seconds!
 		</p>
 		<p>
 		<%= link_to "Sign Up Now", new_user_registration_path, class: "btn btn-inverse btn-large"%>

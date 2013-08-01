@@ -1,0 +1,75 @@
+<CodedUncoded>
+<Tab name="Medicine" mrno="**ID-NUM">
+<item><comm>: 
+- In the setting of 1st trimester pregnancy
+- Possibly r/t pregnancy itself (hyperemesis) or severe constipatio
+- MRI A/P negative for acute abnormality
+- HCG elevated as expected
+- GU exam unremarkable
+- UA not suggestive of infection, LFT's and lipase wnl
+- OB Brat while in house
+- OB/Gyn recommended scheduling anti-emetics (Zofran, Phenergan, Reglan)
+</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Nausea and vomiting</full><id>Nausea_and_vomiting_18</id><on>on</on></item>
+<item><comm>:  
+- Unclear etiology, possibly r/t constipation
+- Improved today
+- Per curbside with OB, can continue Colace as scheduled
+- Milk and molasses enema in house, as all others are contraindicated in pregnancy
+- Avoid narcotics
+</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Abdominal pain</full><id>Abdominal_pain_21</id><on>on</on></item>
+<item><comm>: 
+- Improving
+- Likely normal physiologic changes in pregnancy and/or reflective of acute stress
+- Pelvic exam, UA, MRI A/P unremarkable
+</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Leukocytosis</full><id>Leukocytosis_20</id><on>on</on></item>
+<item><comm>:
+- Replete prn
+</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Hypokalemia</full><id>Hypokalemia_19</id><on>on</on></item>
+<item><comm>:
+- Discharge home
+- Case Management will arrange transportation home
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>Disposition</full><id>Disposition_7</id><on>on</on></item>
+</Tab>
+<Tab name="OB/GYN" mrno="**ID-NUM">
+<item><comm>--Unknown etiology but nonacute abdominal exam
+--Normal LFTs
+--UDS previously negative
+--UA negative for evidence infection
+--Suspect strong psychiatric component, multiple admissions in the past for similar pain
+--Recent Ob ultrasound negative for source
+--Abdominal MRI negative on **DATE[Mar 18 12] and **DATE[Feb 28 12]
+-Abd US neg
+--Ferritin level recently normal, do not suspect recurrence of HLH
+--low TSH and high FT4, likley secondary to N/V, will rpt in 2T after N/V have resolved, as she has no other sx of hyperthyroidism
+At this time, workup is negative and no source of pain can be identified.</comm><itemts>**ID-NUM</itemts><trend></trend><isprimary>on</isprimary><full>Abdominal pain</full><id>Abdominal_pain_3</id><on>on</on></item>
+<item><comm>--Evidence of dehydration with 150 ketones and tachycardia on admission
+--IVF
+--Schedules po zofran and phenergan
+--LFTs normal on admission
+--regular diet as tolerated
+-- N/V have improved
+-- Replace Mg</comm><itemts>**ID-NUM</itemts><trend></trend><full>Nausea and vomiting</full><id>Nausea_and_vomiting_2</id><on>on</on></item>
+<item><comm>--EDD **DATE[Oct 10 12], dated by 7.0 wk US
+--Prenatal labs completed:O+/ RI/RPR NR/HBV neg/HIV neh/ GC/CT neg</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Patient currently pregnant</full><id>Patient_currently_pregnant_4</id><on>on</on></item>
+<item><comm>--Echo for baseline cardiac function, at risk for return of cardiomyopathy with pregnancy, EF 50-60%</comm><itemts>**ID-NUM</itemts><trend></trend><full>Cardiac history</full><id>Cardiac_history_5</id><on>on</on></item>
+<item><comm>-seen by Psych previously</comm><itemts>**ID-NUM</itemts><trend></trend><full>Psychiatric disorder</full><id>Psychiatric_disorder_7</id><on>on</on></item>
+<item><comm>-hydrate. Replace electrolytes. 
+-tolerating reg diet
+-likely home today</comm><itemts>**ID-NUM</itemts><trend></trend><full>Disposition</full><id>Disposition_8</id><on>on</on></item>
+<item><comm>--Appreciate </comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Suicidal thoughts</full><id>Suicidal_thoughts_6</id><on></on></item>
+</Tab>
+<Tab name="GYN" mrno="**ID-NUM">
+<item><comm>CMP wnl.  No metabolic derangements, other than UA with ketones.  Will continue IVF hydration with D5LR at 125 cc/hr.  Will keep patient npo with scheduled reglan, phenergan, and pepcid.  Due to the amount of emesis, would have low threshold for NGT placment.  Would consider enema for constipation.  Admission to telemetry bed secondary to significant tachycardia and cardiac history. 
+Will need to repeat UA to check for resolution of ketones.  Serial BMP with aggressive electrolyte replacement. 
+Patient will be admitted to MFM antepartum service. </comm><trend></trend><isprimary>on</isprimary><full>Hyperemesis gravidarum</full><id>Hyperemesis_gravidarum_2</id><on>on</on></item>
+<item><comm>EDD **DATE[Oct 10 12], dated by 7.0 wk US 
+Fetal cardiac activity confirmed on US today 
+Prenatal labs completed:
+O+/ RI/RPR NR/HBV neg/HIV neh/ GC/CT neg
+TSH 0.280, FT4 2.29
+Patient has had new OB visit, was scheduled for MFM consultation on **DATE[Oct 20] , but is being admitted to the MFM service.  Patient will need counseling on the risks of this pregnancy due to her underlying PMH (CVA and cardiomyopathy). 
+Thank you for inviting us to participate in the care of this patient.  
+Plan of care formulated under the supervision of chief resident Dr. **NAME[ZZZ] and attending physicians, Dr. **NAME[YYY] and Dr. **NAME[XXX]. </comm><trend></trend><full>Pregnancy</full><id>Pregnancy_3</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

@@ -1,0 +1,60 @@
+<CodedUncoded>
+<Tab name="Medicine" mrno="**ID-NUM">
+<item><comm>:
+- Prior bx c/w bullous pemphigoid
+- Dermatology following, appreciate assistance
+- Transitioned from high-dose IV Methylpred to oral Prednisone 60 mg daily today
+- Plan for prolonged, 6 week steroid taper (taper by 10 mg each week until discontinued)
+- Cont Imuran 25 mg po daily
+- Cont Doxycyline per Derm recs
+- TPMT enzyme level pending (sent 2/26)
+- Otherwise treat with supportive care (Benadryl, mittens to avoid scratching)
+</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><isprimary>on</isprimary><full>Bullous dermatosis</full><id>Bullous_dermatosis_10</id><on>on</on></item>
+<item><comm>: 
+- Low-grade F on **DATE[Sep 01 12](100.5), afebrile last 48 hours
+- Leukocytosis present but likely d/t high-dose steroids
+- CXR without acute infiltrate, UA not suggestive of infection, BCx (**DATE[Sep 01 12]) with NGTD
+- Received empiric Vanc x1 dose
+- Cont Doxycycline as below
+</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Fever</full><id>Fever_9</id><on>on</on></item>
+<item><comm>:
+- New per daughter, improved throughout admission
+- Possibly d/t functional decline vs. oropharyngeal lesions (present on video swallow study)
+- Cont pureed diet with thin liquids
+- Aspiration precautions
+- Cont miracle mouthwash
+</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Difficulty swallowing</full><id>Difficulty_swallowing_8</id><on>on</on></item>
+<item><comm>: 
+- Severe, non-verbal at baseline
+- Aricept on hold (can likely d/c permanently)
+- Risperdone on hold 
+</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Dementia</full><id>Dementia_3</id><on>on</on></item>
+<item><comm>: 
+- Accuchecks with SSI
+</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Diabetes mellitus</full><id>Diabetes_mellitus_4</id><on>on</on></item>
+<item><comm>: 
+- Zocor on hold
+</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Hyperlipidemia</full><id>Hyperlipidemia_5</id><on>on</on></item>
+<item><comm>:
+- Rash has stabilized per Derm
+- Ready for d/c to SNF 
+- CM to arrange wound care at home
+- Pt to f/u with primary Dermatologist, Dr. **NAME[ZZZ], in 1 week (appt made on **DATE[Sep 01 12] at 1pm)
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>Disposition</full><id>Disposition_6</id><on>on</on></item>
+<item><comm>:
+- DNR/DNI per Palliative discussion
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>Code status</full><id>Code_status_9</id><on>on</on></item>
+</Tab>
+<Tab name="PallCare" mrno="**ID-NUM">
+<item><comm>I met with **PLACE and **NAME[YYY] (sons) per **NAME[XXX WWW] who could not be present.  Goal is to get patient back to **PLACE area which is home.  They are interested in skilled NF  for wound care.  They are also open to Pall Care following to assist with symptom managment.  
+We discussed the fact that their mother has been nonverbal for 3 years and is bed bound.  She also has bullous pemphigoid which is still causing new lesions.  She currently has 30% BSA lesions with new oral lesions.  Dermatology hopes that treatment will control the disease but it is still uncertain.
+Patient's four children including **NAME[WWW] (poa) discussed code status last night and feel that DNR/DNI most appropriate. </comm><itemts>**ID-NUM</itemts><trend></trend><isprimary>on</isprimary><full>Goals of care</full><id>Goals_of_care_2</id><on>on</on></item>
+<item><comm>DNR/DNI</comm><itemts>**ID-NUM</itemts><trend></trend><full>Code status</full><id>Code_status_3</id><on>on</on></item>
+<item><comm>Pain 
+-Continue prn morphine and magic mouth wash
+Puritis 
+-rec zofran 8mg po q6h prn.</comm><itemts>**ID-NUM</itemts><trend></trend><full>Symptom Managment</full><id>Symptom_Managment_4</id><on>on</on></item>
+<item><comm>SNF in **PLACE with Pall Care </comm><itemts>**ID-NUM</itemts><trend></trend><full>Dispo</full><id>Dispo_5</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

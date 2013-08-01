@@ -1,0 +1,9 @@
+<CodedUncoded>
+<Tab name="GYN" mrno="**ID-NUM">
+<item><comm>- Consent signed and on chart
+- Ancef 1g for preoperative antibiotic prophylaxis
+- SCDs for DVT prophylaxis
+- Proceed to OR as scheduled</comm><itemts>**ID-NUM</itemts><trend></trend><isprimary>on</isprimary><full>Preop</full><id>Preop_2</id><on></on></item>
+</Tab>
+</CodedUncoded>
+

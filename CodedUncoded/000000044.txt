@@ -1,0 +1,46 @@
+<CodedUncoded>
+<Tab name="Medicine" mrno="**ID-NUM">
+<item><comm>:
+1) Malignant melanoma: 
+--metastatic to pelvic and retroperitoneal LNs
+--followed by Dr. **NAME[ZZZ]
+--admitted to initiate IL-2, cycle 2 week 2
+-- Completed 6 doses of IL-2
+2) Leukocytosis
+--unclear etiology; afebrile, no signs of infection
+--not likely that rash could cause such leukocytosis, but possible
+3) Rash
+--appears to be contact dermatitis
+--steroid cream and monitor
+4) Depression/anxiety: :
+--Lexapro 20 mg QHS
+--Clonazepam 0.5 mg QHS  
+5) Distal Paresthesias and complications of Reynaud's
+--pain control, heating blanket, gabapentin
+--will monitor
+6) Hypotension
+--requiring Neosynephrine since dose 3
+--max dose neo as of **DATE[Mar 22]
+7) AKI
+--Cr doubled **DATE[Mar 22], trending down
+--making good amounts of urine</comm><itemts>**ID-NUM</itemts><trend></trend><isprimary>on</isprimary><full>Problems</full><id>Problems_7</id><on>on</on></item>
+<item><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Malignant melanoma</full><id>Malignant_melanoma_2</id><on></on></item>
+<item><itemts>**ID-NUM</itemts><trend></trend><full>Reynaud's Phenomenon</full><id>Reynaud_s_Phenomenon_8</id><on></on></item>
+<item><itemts>**ID-NUM</itemts><trend></trend><full>Depression/anxiety</full><id>Depression_anxiety_3</id><on></on></item>
+<item><itemts>**ID-NUM</itemts><trend></trend><full>Full Code</full><id>Full_Code_5</id><on></on></item>
+<item><comm>:
+1) continue IL-2 protocol
+2) monitor for hypotension or signs of SIRS
+3) down-titrate neosynephrine if possible
+</comm><itemts>**ID-NUM</itemts><trend></trend><full>Plan</full><id>Plan_5</id><on></on></item>
+</Tab>
+<Tab name="MICU" mrno="**ID-NUM">
+<item><itemts>**ID-NUM</itemts><trend></trend><isprimary>on</isprimary><full>Hypotension</full><id>Hypotension_2</id><on>on</on></item>
+<item><itemts>**ID-NUM</itemts><trend></trend><full>Malignant melanoma</full><id>Malignant_melanoma_3</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Shock</full><id>Shock_4</id><on>on</on></item>
+<item><trend></trend><full>Acute kidney injury</full><id>Acute_kidney_injury_5</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Constipation</full><id>Constipation_6</id><on>on</on></item>
+<item><snomed>**ID-NUM</snomed><trend></trend><full>Myocardial ischemia</full><id>Myocardial_ischemia_7</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+

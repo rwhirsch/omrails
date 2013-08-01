@@ -1,0 +1,33 @@
+<CodedUncoded>
+<Tab name="Medicine" mrno="**ID-NUM">
+<item><comm>: 
+- With history of withdrawal seizures
+- Last drink 3 days PTA, already through detox protocol at Baptist
+- Placed on CIWA at admission, since discontinued
+- IV Thiamine x3 days
+- Appreciate Psychiatry assistance-- pt referred to outpatient providers/ resources for EtOH dependence
+</comm><itemts>**ID-NUM</itemts><trend></trend><isprimary>on</isprimary><full>ETOH abuse</full><id>ETOH_abuse_2</id><on>on</on></item>
+<item><comm>: 
+- Developing PNA on CXR with productive cough (HCAP vs aspiration)
+- Discharge to complete empiric 7 day course LQN and Clindamycin
+- CM to assist with Rx at discharge
+</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Pneumonia</full><id>Pneumonia_4</id><on>on</on></item>
+<item><comm>: 
+- Most likely d/t beer potomania
+- Improved with NS, encouraged adequate oral intake
+- Na reported as 127 at Baptist prior to admission here, 130 on discharge today (asymptomatic)
+</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Hyponatremia</full><id>Hyponatremia_6</id><on>on</on></item>
+<item><comm>: 
+- No clinical s/s of acute exacerbation
+- Duonebs q4h in house
+- Counseled regarding smoking cessation
+</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Chronic obstructive lung disease</full><id>Chronic_obstructive_lung_disease_3</id><on>on</on></item>
+<item><comm>:
+- Repleted prn
+</comm><itemts>**ID-NUM</itemts><snomed>**ID-NUM</snomed><trend></trend><full>Hypokalemia</full><id>Hypokalemia_8</id><on>on</on></item>
+<item><comm>:
+- Homeless, referred to Respite Care (CM has arranged for a bed)
+- Sisters are involved, at bedside (**NAME[ZZZ] **PHONE)</comm><trend></trend><full>Disposition</full><id>Disposition_8</id><on>on</on></item>
+</Tab>
+</CodedUncoded>
+
