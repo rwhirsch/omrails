@@ -1,6 +1,6 @@
-class CreatePins < ActiveRecord::Migration
+class CreateData < ActiveRecord::Migration
   def change
-    create_table :pins do |t|
+    create_table :data do |t|
       t.string :description
 
       t.timestamps
