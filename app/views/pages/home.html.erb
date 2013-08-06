@@ -1,5 +1,17 @@
 <% if user_signed_in? %>
 <h1>Welcome to Your Health Records!</h1>
+  <div class="span12">
+		<div class="hero-unit">
+			<h1>Choose an option below</h1>
+		<p>
+		View all of your medical records and test results in seconds!
+		</p>
+		<p>
+		<%= link_to "Medical History", new_user_registration_path, class: "btn btn-inverse btn-large"%>
+		<%= link_to "Current Medications", new_user_registration_path, class: "btn btn-inverse btn-large"%>
+		<%= link_to "Test Results", new_user_registration_path, class: "btn btn-inverse btn-large"%>
+	</div>
+</p>
 <% else %>
 <div class="row-fluid">
   <div class="span4">
